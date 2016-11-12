@@ -1,0 +1,4638 @@
+156c156
+< "ID363756",50035614,"Establishment closed.",0,0,1
+---
+> "ID363756",50035614,"Violations recorded after the inspection.",0,1,0
+293c293
+< "ID363893",41593479,"Establishment closed.",0,0,1
+---
+> "ID363893",41593479,"Violations recorded after the inspection.",0,1,0
+340c340
+< "ID363940",50004057,"Violations recorded after the inspection.",0,1,0
+---
+> "ID363940",50004057,"Establishment closed.",0,0,1
+369c369
+< "ID363969",40941619,"Establishment closed.",0,0,1
+---
+> "ID363969",40941619,"Violations recorded after the inspection.",0,1,0
+433c433
+< "ID364033",50000576,"Establishment closed.",0,0,1
+---
+> "ID364033",50000576,"Violations recorded after the inspection.",0,1,0
+576c576
+< "ID364176",40663950,"Violations recorded after the inspection.",0,1,0
+---
+> "ID364176",40663950,"Establishment closed.",0,0,1
+747c747
+< "ID364347",41646934,"Establishment closed.",0,0,1
+---
+> "ID364347",41646934,"Violations recorded after the inspection.",0,1,0
+943c943
+< "ID364543",40391259,"Establishment closed.",0,0,1
+---
+> "ID364543",40391259,"Violations recorded after the inspection.",0,1,0
+1110c1110
+< "ID364710",50000966,"Establishment closed.",0,0,1
+---
+> "ID364710",50000966,"Violations recorded after the inspection.",0,1,0
+1262c1262
+< "ID364862",50011515,"Establishment closed.",0,0,1
+---
+> "ID364862",50011515,"Violations recorded after the inspection.",0,1,0
+1501c1501
+< "ID365101",41639505,"Establishment closed.",0,0,1
+---
+> "ID365101",41639505,"Violations recorded after the inspection.",0,1,0
+1892c1892
+< "ID365492",50003771,"Establishment closed.",0,0,1
+---
+> "ID365492",50003771,"Violations recorded after the inspection.",0,1,0
+1903c1903
+< "ID365503",41615382,"Establishment closed.",0,0,1
+---
+> "ID365503",41615382,"Violations recorded after the inspection.",0,1,0
+2019c2019
+< "ID365619",50009843,"Establishment closed.",0,0,1
+---
+> "ID365619",50009843,"Violations recorded after the inspection.",0,1,0
+2038c2038
+< "ID365638",41019480,"Violations recorded after the inspection.",0,1,0
+---
+> "ID365638",41019480,"Establishment closed.",0,0,1
+2081c2081
+< "ID365681",50046117,"Establishment closed.",0,0,1
+---
+> "ID365681",50046117,"Violations recorded after the inspection.",0,1,0
+2238c2238
+< "ID365838",41273111,"Establishment closed.",0,0,1
+---
+> "ID365838",41273111,"Violations recorded after the inspection.",0,1,0
+2242c2242
+< "ID365842",41242241,"No violations recorded after the inspection.",1,0,0
+---
+> "ID365842",41242241,"Violations recorded after the inspection.",0,1,0
+2401c2401
+< "ID366001",41340437,"Establishment closed.",0,0,1
+---
+> "ID366001",41340437,"Violations recorded after the inspection.",0,1,0
+2575c2575
+< "ID366175",41164793,"Establishment closed.",0,0,1
+---
+> "ID366175",41164793,"Violations recorded after the inspection.",0,1,0
+2611c2611
+< "ID366211",41710522,"Violations recorded after the inspection.",0,1,0
+---
+> "ID366211",41710522,"Establishment closed.",0,0,1
+2631c2631
+< "ID366231",41425803,"Establishment closed.",0,0,1
+---
+> "ID366231",41425803,"Violations recorded after the inspection.",0,1,0
+2797c2797
+< "ID366397",40397180,"Establishment closed.",0,0,1
+---
+> "ID366397",40397180,"Violations recorded after the inspection.",0,1,0
+2894c2894
+< "ID366494",41174075,"Establishment closed.",0,0,1
+---
+> "ID366494",41174075,"Violations recorded after the inspection.",0,1,0
+2948c2948
+< "ID366548",41548669,"Establishment closed.",0,0,1
+---
+> "ID366548",41548669,"Violations recorded after the inspection.",0,1,0
+3051c3051
+< "ID366651",50003494,"Establishment closed.",0,0,1
+---
+> "ID366651",50003494,"Violations recorded after the inspection.",0,1,0
+3225c3225
+< "ID366825",40841152,"Establishment closed.",0,0,1
+---
+> "ID366825",40841152,"Violations recorded after the inspection.",0,1,0
+3250c3250
+< "ID366850",40560896,"Violations recorded after the inspection.",0,1,0
+---
+> "ID366850",40560896,"Establishment closed.",0,0,1
+3258c3258
+< "ID366858",40750062,"Establishment closed.",0,0,1
+---
+> "ID366858",40750062,"Violations recorded after the inspection.",0,1,0
+3345c3345
+< "ID366945",50034077,"Establishment closed.",0,0,1
+---
+> "ID366945",50034077,"Violations recorded after the inspection.",0,1,0
+3452c3452
+< "ID367052",50040953,"Violations recorded after the inspection.",0,1,0
+---
+> "ID367052",50040953,"Establishment closed.",0,0,1
+3472c3472
+< "ID367072",41554855,"Establishment closed.",0,0,1
+---
+> "ID367072",41554855,"Violations recorded after the inspection.",0,1,0
+3482c3482
+< "ID367082",41704059,"Violations recorded after the inspection.",0,1,0
+---
+> "ID367082",41704059,"Establishment closed.",0,0,1
+3557c3557
+< "ID367157",50015253,"Establishment closed.",0,0,1
+---
+> "ID367157",50015253,"Violations recorded after the inspection.",0,1,0
+3567c3567
+< "ID367167",41350639,"Establishment closed.",0,0,1
+---
+> "ID367167",41350639,"Violations recorded after the inspection.",0,1,0
+3590c3590
+< "ID367190",50011224,"Establishment closed.",0,0,1
+---
+> "ID367190",50011224,"Violations recorded after the inspection.",0,1,0
+3635c3635
+< "ID367235",41712791,"Violations recorded after the inspection.",0,1,0
+---
+> "ID367235",41712791,"Establishment closed.",0,0,1
+3832c3832
+< "ID367432",50006705,"Establishment closed.",0,0,1
+---
+> "ID367432",50006705,"Violations recorded after the inspection.",0,1,0
+3932c3932
+< "ID367532",41304667,"Establishment closed.",0,0,1
+---
+> "ID367532",41304667,"Violations recorded after the inspection.",0,1,0
+3960c3960
+< "ID367560",50044267,"Establishment closed.",0,0,1
+---
+> "ID367560",50044267,"Violations recorded after the inspection.",0,1,0
+3969c3969
+< "ID367569",50002012,"Establishment closed.",0,0,1
+---
+> "ID367569",50002012,"Violations recorded after the inspection.",0,1,0
+3983c3983
+< "ID367583",40681411,"Violations recorded after the inspection.",0,1,0
+---
+> "ID367583",40681411,"Establishment closed.",0,0,1
+4115c4115
+< "ID367715",50002248,"Establishment closed.",0,0,1
+---
+> "ID367715",50002248,"Violations recorded after the inspection.",0,1,0
+4132c4132
+< "ID367732",50000133,"No violations recorded after the inspection.",1,0,0
+---
+> "ID367732",50000133,"Violations recorded after the inspection.",0,1,0
+4137c4137
+< "ID367737",50039550,"Violations recorded after the inspection.",0,1,0
+---
+> "ID367737",50039550,"Establishment closed.",0,0,1
+4140c4140
+< "ID367740",50035487,"Establishment closed.",0,0,1
+---
+> "ID367740",50035487,"Violations recorded after the inspection.",0,1,0
+4161c4161
+< "ID367761",50002897,"Establishment closed.",0,0,1
+---
+> "ID367761",50002897,"Violations recorded after the inspection.",0,1,0
+4190c4190
+< "ID367790",40841152,"Establishment closed.",0,0,1
+---
+> "ID367790",40841152,"Violations recorded after the inspection.",0,1,0
+4235c4235
+< "ID367835",50018468,"Violations recorded after the inspection.",0,1,0
+---
+> "ID367835",50018468,"Establishment closed.",0,0,1
+4296c4296
+< "ID367896",41080215,"Establishment closed.",0,0,1
+---
+> "ID367896",41080215,"Violations recorded after the inspection.",0,1,0
+4315c4315
+< "ID367915",41177009,"Establishment closed.",0,0,1
+---
+> "ID367915",41177009,"Violations recorded after the inspection.",0,1,0
+4350c4350
+< "ID367950",41382650,"Establishment closed.",0,0,1
+---
+> "ID367950",41382650,"Violations recorded after the inspection.",0,1,0
+4384c4384
+< "ID367984",41466937,"Establishment closed.",0,0,1
+---
+> "ID367984",41466937,"Violations recorded after the inspection.",0,1,0
+4524c4524
+< "ID368124",50045157,"Establishment closed.",0,0,1
+---
+> "ID368124",50045157,"Violations recorded after the inspection.",0,1,0
+4592c4592
+< "ID368192",50014387,"Establishment closed.",0,0,1
+---
+> "ID368192",50014387,"Violations recorded after the inspection.",0,1,0
+4666c4666
+< "ID368266",40965177,"Establishment closed.",0,0,1
+---
+> "ID368266",40965177,"Violations recorded after the inspection.",0,1,0
+4878c4878
+< "ID368478",41624694,"Establishment closed.",0,0,1
+---
+> "ID368478",41624694,"Violations recorded after the inspection.",0,1,0
+4898c4898
+< "ID368498",41554321,"Establishment closed.",0,0,1
+---
+> "ID368498",41554321,"Violations recorded after the inspection.",0,1,0
+4985c4985
+< "ID368585",40387399,"Violations recorded after the inspection.",0,1,0
+---
+> "ID368585",40387399,"Establishment closed.",0,0,1
+5025c5025
+< "ID368625",50011489,"No violations recorded after the inspection.",1,0,0
+---
+> "ID368625",50011489,"Establishment closed.",0,0,1
+5158c5158
+< "ID368758",41255152,"Establishment closed.",0,0,1
+---
+> "ID368758",41255152,"Violations recorded after the inspection.",0,1,0
+5287c5287
+< "ID368887",41310853,"Establishment closed.",0,0,1
+---
+> "ID368887",41310853,"Violations recorded after the inspection.",0,1,0
+5371c5371
+< "ID368971",40596377,"Establishment closed.",0,0,1
+---
+> "ID368971",40596377,"Violations recorded after the inspection.",0,1,0
+5412c5412
+< "ID369012",41685002,"Establishment closed.",0,0,1
+---
+> "ID369012",41685002,"Violations recorded after the inspection.",0,1,0
+5420c5420
+< "ID369020",50010096,"Establishment closed.",0,0,1
+---
+> "ID369020",50010096,"Violations recorded after the inspection.",0,1,0
+5602c5602
+< "ID369202",50005071,"Establishment closed.",0,0,1
+---
+> "ID369202",50005071,"Violations recorded after the inspection.",0,1,0
+5661c5661
+< "ID369261",40393488,"Violations recorded after the inspection.",0,1,0
+---
+> "ID369261",40393488,"Establishment closed.",0,0,1
+5726c5726
+< "ID369326",50000576,"Establishment closed.",0,0,1
+---
+> "ID369326",50000576,"Violations recorded after the inspection.",0,1,0
+5916c5916
+< "ID369516",50032836,"Violations recorded after the inspection.",0,1,0
+---
+> "ID369516",50032836,"Establishment closed.",0,0,1
+6030c6030
+< "ID369630",41320205,"Violations recorded after the inspection.",0,1,0
+---
+> "ID369630",41320205,"Establishment closed.",0,0,1
+6096c6096
+< "ID369696",40511292,"No violations recorded after the inspection.",1,0,0
+---
+> "ID369696",40511292,"Establishment closed.",0,0,1
+6173c6173
+< "ID369773",40393488,"Violations recorded after the inspection.",0,1,0
+---
+> "ID369773",40393488,"Establishment closed.",0,0,1
+6346c6346
+< "ID369946",50003580,"Violations recorded after the inspection.",0,1,0
+---
+> "ID369946",50003580,"Establishment closed.",0,0,1
+6478c6478
+< "ID370078",40944982,"Establishment closed.",0,0,1
+---
+> "ID370078",40944982,"Violations recorded after the inspection.",0,1,0
+6484c6484
+< "ID370084",50002452,"Establishment closed.",0,0,1
+---
+> "ID370084",50002452,"Violations recorded after the inspection.",0,1,0
+6688c6688
+< "ID370288",40588296,"Establishment closed.",0,0,1
+---
+> "ID370288",40588296,"Violations recorded after the inspection.",0,1,0
+6758c6758
+< "ID370358",41554321,"Establishment closed.",0,0,1
+---
+> "ID370358",41554321,"Violations recorded after the inspection.",0,1,0
+6834c6834
+< "ID370434",50033207,"Violations recorded after the inspection.",0,1,0
+---
+> "ID370434",50033207,"Establishment closed.",0,0,1
+6895c6895
+< "ID370495",40892367,"Establishment closed.",0,0,1
+---
+> "ID370495",40892367,"Violations recorded after the inspection.",0,1,0
+6922c6922
+< "ID370522",50001143,"No violations recorded after the inspection.",1,0,0
+---
+> "ID370522",50001143,"Establishment closed.",0,0,1
+6938c6938
+< "ID370538",50040417,"Establishment closed.",0,0,1
+---
+> "ID370538",50040417,"Violations recorded after the inspection.",0,1,0
+7032c7032
+< "ID370632",40783989,"No violations recorded after the inspection.",1,0,0
+---
+> "ID370632",40783989,"Establishment closed.",0,0,1
+7173c7173
+< "ID370773",41226548,"No violations recorded after the inspection.",1,0,0
+---
+> "ID370773",41226548,"Violations recorded after the inspection.",0,1,0
+7183c7183
+< "ID370783",50010453,"Establishment closed.",0,0,1
+---
+> "ID370783",50010453,"Violations recorded after the inspection.",0,1,0
+7264c7264
+< "ID370864",50013605,"Establishment closed.",0,0,1
+---
+> "ID370864",50013605,"Violations recorded after the inspection.",0,1,0
+7275c7275
+< "ID370875",50017827,"Establishment closed.",0,0,1
+---
+> "ID370875",50017827,"Violations recorded after the inspection.",0,1,0
+7320c7320
+< "ID370920",50002990,"Establishment closed.",0,0,1
+---
+> "ID370920",50002990,"Violations recorded after the inspection.",0,1,0
+7329c7329
+< "ID370929",50003387,"Violations recorded after the inspection.",0,1,0
+---
+> "ID370929",50003387,"Establishment closed.",0,0,1
+7414c7414
+< "ID371014",40965177,"Establishment closed.",0,0,1
+---
+> "ID371014",40965177,"Violations recorded after the inspection.",0,1,0
+7563c7563
+< "ID371163",50016534,"Establishment closed.",0,0,1
+---
+> "ID371163",50016534,"Violations recorded after the inspection.",0,1,0
+7670c7670
+< "ID371270",50000334,"Establishment closed.",0,0,1
+---
+> "ID371270",50000334,"Violations recorded after the inspection.",0,1,0
+7938c7938
+< "ID371538",41298602,"Establishment closed.",0,0,1
+---
+> "ID371538",41298602,"No violations recorded after the inspection.",1,0,0
+8020c8020
+< "ID371620",41044065,"Violations recorded after the inspection.",0,1,0
+---
+> "ID371620",41044065,"Establishment closed.",0,0,1
+8061c8061
+< "ID371661",50000055,"Establishment closed.",0,0,1
+---
+> "ID371661",50000055,"Violations recorded after the inspection.",0,1,0
+8064c8064
+< "ID371664",40928943,"Establishment closed.",0,0,1
+---
+> "ID371664",40928943,"Violations recorded after the inspection.",0,1,0
+8164c8164
+< "ID371764",41469010,"Violations recorded after the inspection.",0,1,0
+---
+> "ID371764",41469010,"Establishment closed.",0,0,1
+8349c8349
+< "ID371949",41674322,"Establishment closed.",0,0,1
+---
+> "ID371949",41674322,"Violations recorded after the inspection.",0,1,0
+8377c8377
+< "ID371977",41664920,"Establishment closed.",0,0,1
+---
+> "ID371977",41664920,"Violations recorded after the inspection.",0,1,0
+8396c8396
+< "ID371996",41629235,"Establishment closed.",0,0,1
+---
+> "ID371996",41629235,"No violations recorded after the inspection.",1,0,0
+8457c8457
+< "ID372057",50014374,"Violations recorded after the inspection.",0,1,0
+---
+> "ID372057",50014374,"Establishment closed.",0,0,1
+8484,8485c8484,8485
+< "ID372084",41605430,"Establishment closed.",0,0,1
+< "ID372085",50008956,"Establishment closed.",0,0,1
+---
+> "ID372084",41605430,"Violations recorded after the inspection.",0,1,0
+> "ID372085",50008956,"Violations recorded after the inspection.",0,1,0
+8562c8562
+< "ID372162",41415808,"Establishment closed.",0,0,1
+---
+> "ID372162",41415808,"Violations recorded after the inspection.",0,1,0
+8658c8658
+< "ID372258",41708320,"Establishment closed.",0,0,1
+---
+> "ID372258",41708320,"Violations recorded after the inspection.",0,1,0
+8722c8722
+< "ID372322",50046492,"Establishment closed.",0,0,1
+---
+> "ID372322",50046492,"Violations recorded after the inspection.",0,1,0
+8741c8741
+< "ID372341",50002452,"Establishment closed.",0,0,1
+---
+> "ID372341",50002452,"Violations recorded after the inspection.",0,1,0
+8778c8778
+< "ID372378",50036518,"Establishment closed.",0,0,1
+---
+> "ID372378",50036518,"Violations recorded after the inspection.",0,1,0
+8909c8909
+< "ID372509",41646824,"Establishment closed.",0,0,1
+---
+> "ID372509",41646824,"Violations recorded after the inspection.",0,1,0
+8959c8959
+< "ID372559",50033742,"Establishment closed.",0,0,1
+---
+> "ID372559",50033742,"Violations recorded after the inspection.",0,1,0
+9061c9061
+< "ID372661",50017170,"Violations recorded after the inspection.",0,1,0
+---
+> "ID372661",50017170,"Establishment closed.",0,0,1
+9094c9094
+< "ID372694",40596246,"Establishment closed.",0,0,1
+---
+> "ID372694",40596246,"Violations recorded after the inspection.",0,1,0
+9131c9131
+< "ID372731",40383281,"Establishment closed.",0,0,1
+---
+> "ID372731",40383281,"Violations recorded after the inspection.",0,1,0
+9292c9292
+< "ID372892",41315168,"Establishment closed.",0,0,1
+---
+> "ID372892",41315168,"Violations recorded after the inspection.",0,1,0
+9432c9432
+< "ID373032",50002634,"Establishment closed.",0,0,1
+---
+> "ID373032",50002634,"Violations recorded after the inspection.",0,1,0
+9492c9492
+< "ID373092",41685035,"No violations recorded after the inspection.",1,0,0
+---
+> "ID373092",41685035,"Establishment closed.",0,0,1
+9538c9538
+< "ID373138",50002452,"Establishment closed.",0,0,1
+---
+> "ID373138",50002452,"Violations recorded after the inspection.",0,1,0
+9847c9847
+< "ID373447",50016152,"No violations recorded after the inspection.",1,0,0
+---
+> "ID373447",50016152,"Violations recorded after the inspection.",0,1,0
+10024c10024
+< "ID373624",41409894,"Establishment closed.",0,0,1
+---
+> "ID373624",41409894,"Violations recorded after the inspection.",0,1,0
+10145c10145
+< "ID373745",40514492,"Establishment closed.",0,0,1
+---
+> "ID373745",40514492,"Violations recorded after the inspection.",0,1,0
+10189c10189
+< "ID373789",50006705,"Establishment closed.",0,0,1
+---
+> "ID373789",50006705,"Violations recorded after the inspection.",0,1,0
+10491c10491
+< "ID374091",41554855,"Establishment closed.",0,0,1
+---
+> "ID374091",41554855,"Violations recorded after the inspection.",0,1,0
+10602c10602
+< "ID374202",50003387,"Violations recorded after the inspection.",0,1,0
+---
+> "ID374202",50003387,"Establishment closed.",0,0,1
+10623c10623
+< "ID374223",50001203,"Establishment closed.",0,0,1
+---
+> "ID374223",50001203,"Violations recorded after the inspection.",0,1,0
+10890c10890
+< "ID374490",40537963,"Establishment closed.",0,0,1
+---
+> "ID374490",40537963,"Violations recorded after the inspection.",0,1,0
+10895c10895
+< "ID374495",41696419,"Establishment closed.",0,0,1
+---
+> "ID374495",41696419,"Violations recorded after the inspection.",0,1,0
+11041c11041
+< "ID374641",40560896,"No violations recorded after the inspection.",1,0,0
+---
+> "ID374641",40560896,"Establishment closed.",0,0,1
+11114c11114
+< "ID374714",50008600,"Violations recorded after the inspection.",0,1,0
+---
+> "ID374714",50008600,"Establishment closed.",0,0,1
+11142c11142
+< "ID374742",50011053,"Establishment closed.",0,0,1
+---
+> "ID374742",50011053,"Violations recorded after the inspection.",0,1,0
+11185c11185
+< "ID374785",41191947,"Establishment closed.",0,0,1
+---
+> "ID374785",41191947,"Violations recorded after the inspection.",0,1,0
+11277c11277
+< "ID374877",50045602,"Violations recorded after the inspection.",0,1,0
+---
+> "ID374877",50045602,"Establishment closed.",0,0,1
+11351c11351
+< "ID374951",40949905,"Violations recorded after the inspection.",0,1,0
+---
+> "ID374951",40949905,"Establishment closed.",0,0,1
+11405c11405
+< "ID375005",41429788,"Establishment closed.",0,0,1
+---
+> "ID375005",41429788,"Violations recorded after the inspection.",0,1,0
+11533c11533
+< "ID375133",41299074,"Establishment closed.",0,0,1
+---
+> "ID375133",41299074,"Violations recorded after the inspection.",0,1,0
+11582c11582
+< "ID375182",41717000,"Establishment closed.",0,0,1
+---
+> "ID375182",41717000,"Violations recorded after the inspection.",0,1,0
+11700,11701c11700,11701
+< "ID375300",41609500,"Violations recorded after the inspection.",0,1,0
+< "ID375301",50003474,"Establishment closed.",0,0,1
+---
+> "ID375300",41609500,"Establishment closed.",0,0,1
+> "ID375301",50003474,"Violations recorded after the inspection.",0,1,0
+11780c11780
+< "ID375380",41514977,"Establishment closed.",0,0,1
+---
+> "ID375380",41514977,"Violations recorded after the inspection.",0,1,0
+11844c11844
+< "ID375444",41598232,"No violations recorded after the inspection.",1,0,0
+---
+> "ID375444",41598232,"Violations recorded after the inspection.",0,1,0
+12085c12085
+< "ID375685",40369601,"Establishment closed.",0,0,1
+---
+> "ID375685",40369601,"Violations recorded after the inspection.",0,1,0
+12118c12118
+< "ID375718",41594766,"Establishment closed.",0,0,1
+---
+> "ID375718",41594766,"Violations recorded after the inspection.",0,1,0
+12122c12122
+< "ID375722",40596246,"Establishment closed.",0,0,1
+---
+> "ID375722",40596246,"Violations recorded after the inspection.",0,1,0
+12146c12146
+< "ID375746",41177009,"Establishment closed.",0,0,1
+---
+> "ID375746",41177009,"Violations recorded after the inspection.",0,1,0
+12212c12212
+< "ID375812",40738001,"Establishment closed.",0,0,1
+---
+> "ID375812",40738001,"Violations recorded after the inspection.",0,1,0
+12249c12249
+< "ID375849",41485455,"Establishment closed.",0,0,1
+---
+> "ID375849",41485455,"No violations recorded after the inspection.",1,0,0
+12289c12289
+< "ID375889",50007450,"Violations recorded after the inspection.",0,1,0
+---
+> "ID375889",50007450,"Establishment closed.",0,0,1
+12347c12347
+< "ID375947",40514492,"Establishment closed.",0,0,1
+---
+> "ID375947",40514492,"Violations recorded after the inspection.",0,1,0
+12428c12428
+< "ID376028",41489173,"Establishment closed.",0,0,1
+---
+> "ID376028",41489173,"No violations recorded after the inspection.",1,0,0
+12458c12458
+< "ID376058",50001362,"Violations recorded after the inspection.",0,1,0
+---
+> "ID376058",50001362,"Establishment closed.",0,0,1
+12623c12623
+< "ID376223",41624996,"Establishment closed.",0,0,1
+---
+> "ID376223",41624996,"No violations recorded after the inspection.",1,0,0
+12643c12643
+< "ID376243",41596870,"Establishment closed.",0,0,1
+---
+> "ID376243",41596870,"Violations recorded after the inspection.",0,1,0
+12658c12658
+< "ID376258",41239197,"Establishment closed.",0,0,1
+---
+> "ID376258",41239197,"Violations recorded after the inspection.",0,1,0
+12685c12685
+< "ID376285",41696419,"Establishment closed.",0,0,1
+---
+> "ID376285",41696419,"Violations recorded after the inspection.",0,1,0
+12691c12691
+< "ID376291",41700634,"Violations recorded after the inspection.",0,1,0
+---
+> "ID376291",41700634,"Establishment closed.",0,0,1
+12717c12717
+< "ID376317",41527379,"Establishment closed.",0,0,1
+---
+> "ID376317",41527379,"Violations recorded after the inspection.",0,1,0
+12853c12853
+< "ID376453",50046726,"Establishment closed.",0,0,1
+---
+> "ID376453",50046726,"Violations recorded after the inspection.",0,1,0
+12970c12970
+< "ID376570",41642313,"Violations recorded after the inspection.",0,1,0
+---
+> "ID376570",41642313,"Establishment closed.",0,0,1
+13081c13081
+< "ID376681",40424919,"Violations recorded after the inspection.",0,1,0
+---
+> "ID376681",40424919,"Establishment closed.",0,0,1
+13161c13161
+< "ID376761",41090082,"Establishment closed.",0,0,1
+---
+> "ID376761",41090082,"Violations recorded after the inspection.",0,1,0
+13377c13377
+< "ID376977",41595841,"Establishment closed.",0,0,1
+---
+> "ID376977",41595841,"Violations recorded after the inspection.",0,1,0
+13432c13432
+< "ID377032",41469761,"Violations recorded after the inspection.",0,1,0
+---
+> "ID377032",41469761,"Establishment closed.",0,0,1
+13435c13435
+< "ID377035",41591126,"Establishment closed.",0,0,1
+---
+> "ID377035",41591126,"Violations recorded after the inspection.",0,1,0
+13533c13533
+< "ID377133",50040886,"Establishment closed.",0,0,1
+---
+> "ID377133",50040886,"Violations recorded after the inspection.",0,1,0
+13568c13568
+< "ID377168",50001368,"Establishment closed.",0,0,1
+---
+> "ID377168",50001368,"Violations recorded after the inspection.",0,1,0
+13608c13608
+< "ID377208",40747940,"Establishment closed.",0,0,1
+---
+> "ID377208",40747940,"Violations recorded after the inspection.",0,1,0
+13667c13667
+< "ID377267",40663950,"Violations recorded after the inspection.",0,1,0
+---
+> "ID377267",40663950,"Establishment closed.",0,0,1
+13744c13744
+< "ID377344",41618303,"Establishment closed.",0,0,1
+---
+> "ID377344",41618303,"Violations recorded after the inspection.",0,1,0
+13932c13932
+< "ID377532",41681345,"Establishment closed.",0,0,1
+---
+> "ID377532",41681345,"Violations recorded after the inspection.",0,1,0
+13974c13974
+< "ID377574",50017308,"Establishment closed.",0,0,1
+---
+> "ID377574",50017308,"Violations recorded after the inspection.",0,1,0
+14084c14084
+< "ID377684",40659758,"Violations recorded after the inspection.",0,1,0
+---
+> "ID377684",40659758,"Establishment closed.",0,0,1
+14108c14108
+< "ID377708",41685002,"Establishment closed.",0,0,1
+---
+> "ID377708",41685002,"Violations recorded after the inspection.",0,1,0
+14264c14264
+< "ID377864",41289382,"Establishment closed.",0,0,1
+---
+> "ID377864",41289382,"Violations recorded after the inspection.",0,1,0
+14361c14361
+< "ID377961",41691159,"Establishment closed.",0,0,1
+---
+> "ID377961",41691159,"Violations recorded after the inspection.",0,1,0
+14381c14381
+< "ID377981",41585586,"No violations recorded after the inspection.",1,0,0
+---
+> "ID377981",41585586,"Establishment closed.",0,0,1
+14388c14388
+< "ID377988",41315168,"Establishment closed.",0,0,1
+---
+> "ID377988",41315168,"Violations recorded after the inspection.",0,1,0
+14615c14615
+< "ID378215",41177205,"Establishment closed.",0,0,1
+---
+> "ID378215",41177205,"Violations recorded after the inspection.",0,1,0
+14691c14691
+< "ID378291",40863575,"Establishment closed.",0,0,1
+---
+> "ID378291",40863575,"Violations recorded after the inspection.",0,1,0
+15002c15002
+< "ID378602",41685002,"Establishment closed.",0,0,1
+---
+> "ID378602",41685002,"Violations recorded after the inspection.",0,1,0
+15074c15074
+< "ID378674",50017167,"Violations recorded after the inspection.",0,1,0
+---
+> "ID378674",50017167,"Establishment closed.",0,0,1
+15098c15098
+< "ID378698",41147597,"Establishment closed.",0,0,1
+---
+> "ID378698",41147597,"Violations recorded after the inspection.",0,1,0
+15226c15226
+< "ID378826",41539237,"Establishment closed.",0,0,1
+---
+> "ID378826",41539237,"Violations recorded after the inspection.",0,1,0
+15364c15364
+< "ID378964",50001263,"Establishment closed.",0,0,1
+---
+> "ID378964",50001263,"Violations recorded after the inspection.",0,1,0
+15384c15384
+< "ID378984",41021272,"Establishment closed.",0,0,1
+---
+> "ID378984",41021272,"Violations recorded after the inspection.",0,1,0
+15430c15430
+< "ID379030",41717000,"Establishment closed.",0,0,1
+---
+> "ID379030",41717000,"Violations recorded after the inspection.",0,1,0
+15459c15459
+< "ID379059",50001368,"Establishment closed.",0,0,1
+---
+> "ID379059",50001368,"Violations recorded after the inspection.",0,1,0
+15483c15483
+< "ID379083",50017167,"Violations recorded after the inspection.",0,1,0
+---
+> "ID379083",50017167,"Establishment closed.",0,0,1
+15542c15542
+< "ID379142",41287566,"Establishment closed.",0,0,1
+---
+> "ID379142",41287566,"Violations recorded after the inspection.",0,1,0
+15550c15550
+< "ID379150",41428580,"Establishment closed.",0,0,1
+---
+> "ID379150",41428580,"Violations recorded after the inspection.",0,1,0
+15601c15601
+< "ID379201",41411052,"Establishment closed.",0,0,1
+---
+> "ID379201",41411052,"Violations recorded after the inspection.",0,1,0
+15607c15607
+< "ID379207",40390232,"Establishment closed.",0,0,1
+---
+> "ID379207",40390232,"Violations recorded after the inspection.",0,1,0
+15667c15667
+< "ID379267",50033207,"Violations recorded after the inspection.",0,1,0
+---
+> "ID379267",50033207,"Establishment closed.",0,0,1
+15853c15853
+< "ID379453",41191947,"Violations recorded after the inspection.",0,1,0
+---
+> "ID379453",41191947,"Establishment closed.",0,0,1
+15893c15893
+< "ID379493",41623086,"Violations recorded after the inspection.",0,1,0
+---
+> "ID379493",41623086,"Establishment closed.",0,0,1
+15931c15931
+< "ID379531",50032593,"Establishment closed.",0,0,1
+---
+> "ID379531",50032593,"Violations recorded after the inspection.",0,1,0
+16071c16071
+< "ID379671",40999268,"Establishment closed.",0,0,1
+---
+> "ID379671",40999268,"Violations recorded after the inspection.",0,1,0
+16080c16080
+< "ID379680",41405150,"Establishment closed.",0,0,1
+---
+> "ID379680",41405150,"Violations recorded after the inspection.",0,1,0
+16164c16164
+< "ID379764",41503209,"Establishment closed.",0,0,1
+---
+> "ID379764",41503209,"Violations recorded after the inspection.",0,1,0
+16169c16169
+< "ID379769",41177009,"Establishment closed.",0,0,1
+---
+> "ID379769",41177009,"Violations recorded after the inspection.",0,1,0
+16215c16215
+< "ID379815",50013605,"Establishment closed.",0,0,1
+---
+> "ID379815",50013605,"Violations recorded after the inspection.",0,1,0
+16257c16257
+< "ID379857",41115406,"Establishment closed.",0,0,1
+---
+> "ID379857",41115406,"Violations recorded after the inspection.",0,1,0
+16303c16303
+< "ID379903",41612015,"Establishment closed.",0,0,1
+---
+> "ID379903",41612015,"Violations recorded after the inspection.",0,1,0
+16406c16406
+< "ID380006",50047509,"Establishment closed.",0,0,1
+---
+> "ID380006",50047509,"Violations recorded after the inspection.",0,1,0
+16755c16755
+< "ID380355",41623086,"Violations recorded after the inspection.",0,1,0
+---
+> "ID380355",41623086,"Establishment closed.",0,0,1
+16852c16852
+< "ID380452",41453811,"Violations recorded after the inspection.",0,1,0
+---
+> "ID380452",41453811,"Establishment closed.",0,0,1
+16903c16903
+< "ID380503",40747940,"Violations recorded after the inspection.",0,1,0
+---
+> "ID380503",40747940,"Establishment closed.",0,0,1
+16919c16919
+< "ID380519",41646824,"Establishment closed.",0,0,1
+---
+> "ID380519",41646824,"Violations recorded after the inspection.",0,1,0
+16995c16995
+< "ID380595",40370935,"Establishment closed.",0,0,1
+---
+> "ID380595",40370935,"Violations recorded after the inspection.",0,1,0
+17179c17179
+< "ID380779",50007413,"Establishment closed.",0,0,1
+---
+> "ID380779",50007413,"No violations recorded after the inspection.",1,0,0
+17182c17182
+< "ID380782",41006018,"Establishment closed.",0,0,1
+---
+> "ID380782",41006018,"Violations recorded after the inspection.",0,1,0
+17255c17255
+< "ID380855",41031273,"Establishment closed.",0,0,1
+---
+> "ID380855",41031273,"Violations recorded after the inspection.",0,1,0
+17302c17302
+< "ID380902",41676211,"Establishment closed.",0,0,1
+---
+> "ID380902",41676211,"Violations recorded after the inspection.",0,1,0
+17307c17307
+< "ID380907",41330647,"Establishment closed.",0,0,1
+---
+> "ID380907",41330647,"Violations recorded after the inspection.",0,1,0
+17570c17570
+< "ID381170",40730597,"Violations recorded after the inspection.",0,1,0
+---
+> "ID381170",40730597,"Establishment closed.",0,0,1
+17662c17662
+< "ID381262",40521005,"Establishment closed.",0,0,1
+---
+> "ID381262",40521005,"Violations recorded after the inspection.",0,1,0
+17670c17670
+< "ID381270",50001203,"Establishment closed.",0,0,1
+---
+> "ID381270",50001203,"Violations recorded after the inspection.",0,1,0
+17710c17710
+< "ID381310",41564527,"Establishment closed.",0,0,1
+---
+> "ID381310",41564527,"Violations recorded after the inspection.",0,1,0
+17801c17801
+< "ID381401",41255152,"Establishment closed.",0,0,1
+---
+> "ID381401",41255152,"Violations recorded after the inspection.",0,1,0
+17842,17843c17842,17843
+< "ID381442",40387399,"No violations recorded after the inspection.",1,0,0
+< "ID381443",41320205,"Violations recorded after the inspection.",0,1,0
+---
+> "ID381442",40387399,"Establishment closed.",0,0,1
+> "ID381443",41320205,"Establishment closed.",0,0,1
+18023c18023
+< "ID381623",41623638,"Violations recorded after the inspection.",0,1,0
+---
+> "ID381623",41623638,"Establishment closed.",0,0,1
+18053c18053
+< "ID381653",41163308,"Violations recorded after the inspection.",0,1,0
+---
+> "ID381653",41163308,"Establishment closed.",0,0,1
+18343c18343
+< "ID381943",41652417,"Establishment closed.",0,0,1
+---
+> "ID381943",41652417,"Violations recorded after the inspection.",0,1,0
+18390c18390
+< "ID381990",41476799,"Establishment closed.",0,0,1
+---
+> "ID381990",41476799,"Violations recorded after the inspection.",0,1,0
+18402c18402
+< "ID382002",50000040,"Establishment closed.",0,0,1
+---
+> "ID382002",50000040,"Violations recorded after the inspection.",0,1,0
+18441c18441
+< "ID382041",40425143,"Establishment closed.",0,0,1
+---
+> "ID382041",40425143,"Violations recorded after the inspection.",0,1,0
+18505c18505
+< "ID382105",50003387,"Violations recorded after the inspection.",0,1,0
+---
+> "ID382105",50003387,"Establishment closed.",0,0,1
+18529c18529
+< "ID382129",41705491,"Establishment closed.",0,0,1
+---
+> "ID382129",41705491,"Violations recorded after the inspection.",0,1,0
+18575c18575
+< "ID382175",41241252,"Establishment closed.",0,0,1
+---
+> "ID382175",41241252,"Violations recorded after the inspection.",0,1,0
+18671c18671
+< "ID382271",41685002,"Establishment closed.",0,0,1
+---
+> "ID382271",41685002,"Violations recorded after the inspection.",0,1,0
+18800c18800
+< "ID382400",50001352,"Establishment closed.",0,0,1
+---
+> "ID382400",50001352,"Violations recorded after the inspection.",0,1,0
+18820c18820
+< "ID382420",41296528,"Violations recorded after the inspection.",0,1,0
+---
+> "ID382420",41296528,"Establishment closed.",0,0,1
+18848c18848
+< "ID382448",50003580,"Violations recorded after the inspection.",0,1,0
+---
+> "ID382448",50003580,"Establishment closed.",0,0,1
+18887c18887
+< "ID382487",41294953,"Violations recorded after the inspection.",0,1,0
+---
+> "ID382487",41294953,"Establishment closed.",0,0,1
+18926,18927c18926,18927
+< "ID382526",41304510,"Violations recorded after the inspection.",0,1,0
+< "ID382527",50033432,"Violations recorded after the inspection.",0,1,0
+---
+> "ID382526",41304510,"Establishment closed.",0,0,1
+> "ID382527",50033432,"Establishment closed.",0,0,1
+18943c18943
+< "ID382543",40611479,"Establishment closed.",0,0,1
+---
+> "ID382543",40611479,"Violations recorded after the inspection.",0,1,0
+19039c19039
+< "ID382639",41592230,"Establishment closed.",0,0,1
+---
+> "ID382639",41592230,"Violations recorded after the inspection.",0,1,0
+19162c19162
+< "ID382762",40537963,"Establishment closed.",0,0,1
+---
+> "ID382762",40537963,"Violations recorded after the inspection.",0,1,0
+19241c19241
+< "ID382841",41533453,"Establishment closed.",0,0,1
+---
+> "ID382841",41533453,"Violations recorded after the inspection.",0,1,0
+19256c19256
+< "ID382856",50008493,"Establishment closed.",0,0,1
+---
+> "ID382856",50008493,"Violations recorded after the inspection.",0,1,0
+19261c19261
+< "ID382861",41202673,"Establishment closed.",0,0,1
+---
+> "ID382861",41202673,"Violations recorded after the inspection.",0,1,0
+19274c19274
+< "ID382874",41206524,"Violations recorded after the inspection.",0,1,0
+---
+> "ID382874",41206524,"Establishment closed.",0,0,1
+19299c19299
+< "ID382899",50042965,"Violations recorded after the inspection.",0,1,0
+---
+> "ID382899",50042965,"Establishment closed.",0,0,1
+19337c19337
+< "ID382937",41302781,"Establishment closed.",0,0,1
+---
+> "ID382937",41302781,"Violations recorded after the inspection.",0,1,0
+19483c19483
+< "ID383083",41688672,"Establishment closed.",0,0,1
+---
+> "ID383083",41688672,"Violations recorded after the inspection.",0,1,0
+19523c19523
+< "ID383123",50005056,"Establishment closed.",0,0,1
+---
+> "ID383123",50005056,"Violations recorded after the inspection.",0,1,0
+19697c19697
+< "ID383297",41164793,"Establishment closed.",0,0,1
+---
+> "ID383297",41164793,"Violations recorded after the inspection.",0,1,0
+19727c19727
+< "ID383327",40366879,"Establishment closed.",0,0,1
+---
+> "ID383327",40366879,"Violations recorded after the inspection.",0,1,0
+19980c19980
+< "ID383580",40676022,"Establishment closed.",0,0,1
+---
+> "ID383580",40676022,"Violations recorded after the inspection.",0,1,0
+20042c20042
+< "ID383642",50014375,"Establishment closed.",0,0,1
+---
+> "ID383642",50014375,"Violations recorded after the inspection.",0,1,0
+20141c20141
+< "ID383741",50018447,"Violations recorded after the inspection.",0,1,0
+---
+> "ID383741",50018447,"Establishment closed.",0,0,1
+20177c20177
+< "ID383777",41211257,"Violations recorded after the inspection.",0,1,0
+---
+> "ID383777",41211257,"Establishment closed.",0,0,1
+20244c20244
+< "ID383844",41387108,"Establishment closed.",0,0,1
+---
+> "ID383844",41387108,"Violations recorded after the inspection.",0,1,0
+20269c20269
+< "ID383869",40568964,"Establishment closed.",0,0,1
+---
+> "ID383869",40568964,"Violations recorded after the inspection.",0,1,0
+20370c20370
+< "ID383970",50011515,"Establishment closed.",0,0,1
+---
+> "ID383970",50011515,"Violations recorded after the inspection.",0,1,0
+20557c20557
+< "ID384157",50001368,"Establishment closed.",0,0,1
+---
+> "ID384157",50001368,"Violations recorded after the inspection.",0,1,0
+20567c20567
+< "ID384167",41602559,"Establishment closed.",0,0,1
+---
+> "ID384167",41602559,"Violations recorded after the inspection.",0,1,0
+20580c20580
+< "ID384180",41705732,"Establishment closed.",0,0,1
+---
+> "ID384180",41705732,"Violations recorded after the inspection.",0,1,0
+20768,20769c20768,20769
+< "ID384368",50001330,"Establishment closed.",0,0,1
+< "ID384369",41696419,"Establishment closed.",0,0,1
+---
+> "ID384368",50001330,"Violations recorded after the inspection.",0,1,0
+> "ID384369",41696419,"Violations recorded after the inspection.",0,1,0
+20930c20930
+< "ID384530",40597923,"Establishment closed.",0,0,1
+---
+> "ID384530",40597923,"Violations recorded after the inspection.",0,1,0
+20937c20937
+< "ID384537",41425803,"Establishment closed.",0,0,1
+---
+> "ID384537",41425803,"Violations recorded after the inspection.",0,1,0
+21103c21103
+< "ID384703",50000883,"Establishment closed.",0,0,1
+---
+> "ID384703",50000883,"Violations recorded after the inspection.",0,1,0
+21174c21174
+< "ID384774",41663471,"No violations recorded after the inspection.",1,0,0
+---
+> "ID384774",41663471,"Violations recorded after the inspection.",0,1,0
+21177c21177
+< "ID384777",41630826,"Violations recorded after the inspection.",0,1,0
+---
+> "ID384777",41630826,"Establishment closed.",0,0,1
+21208c21208
+< "ID384808",41721343,"Establishment closed.",0,0,1
+---
+> "ID384808",41721343,"Violations recorded after the inspection.",0,1,0
+21246c21246
+< "ID384846",41669112,"Establishment closed.",0,0,1
+---
+> "ID384846",41669112,"Violations recorded after the inspection.",0,1,0
+21440c21440
+< "ID385040",50000040,"Establishment closed.",0,0,1
+---
+> "ID385040",50000040,"Violations recorded after the inspection.",0,1,0
+21444c21444
+< "ID385044",41021766,"Establishment closed.",0,0,1
+---
+> "ID385044",41021766,"Violations recorded after the inspection.",0,1,0
+21453c21453
+< "ID385053",50016504,"No violations recorded after the inspection.",1,0,0
+---
+> "ID385053",50016504,"Violations recorded after the inspection.",0,1,0
+21534c21534
+< "ID385134",41330647,"Establishment closed.",0,0,1
+---
+> "ID385134",41330647,"Violations recorded after the inspection.",0,1,0
+21583c21583
+< "ID385183",40424919,"Violations recorded after the inspection.",0,1,0
+---
+> "ID385183",40424919,"Establishment closed.",0,0,1
+21689c21689
+< "ID385289",41523349,"Establishment closed.",0,0,1
+---
+> "ID385289",41523349,"Violations recorded after the inspection.",0,1,0
+21927c21927
+< "ID385527",50008600,"Violations recorded after the inspection.",0,1,0
+---
+> "ID385527",50008600,"Establishment closed.",0,0,1
+22046c22046
+< "ID385646",41542520,"Violations recorded after the inspection.",0,1,0
+---
+> "ID385646",41542520,"Establishment closed.",0,0,1
+22055c22055
+< "ID385655",41503209,"Establishment closed.",0,0,1
+---
+> "ID385655",41503209,"Violations recorded after the inspection.",0,1,0
+22093c22093
+< "ID385693",50043964,"Establishment closed.",0,0,1
+---
+> "ID385693",50043964,"Violations recorded after the inspection.",0,1,0
+22138c22138
+< "ID385738",41430522,"Violations recorded after the inspection.",0,1,0
+---
+> "ID385738",41430522,"Establishment closed.",0,0,1
+22254c22254
+< "ID385854",41705634,"Violations recorded after the inspection.",0,1,0
+---
+> "ID385854",41705634,"Establishment closed.",0,0,1
+22384c22384
+< "ID385984",41346086,"Establishment closed.",0,0,1
+---
+> "ID385984",41346086,"Violations recorded after the inspection.",0,1,0
+22441c22441
+< "ID386041",41616095,"Establishment closed.",0,0,1
+---
+> "ID386041",41616095,"No violations recorded after the inspection.",1,0,0
+22585c22585
+< "ID386185",40729164,"Establishment closed.",0,0,1
+---
+> "ID386185",40729164,"Violations recorded after the inspection.",0,1,0
+23225c23225
+< "ID386825",40751226,"No violations recorded after the inspection.",1,0,0
+---
+> "ID386825",40751226,"Establishment closed.",0,0,1
+23283c23283
+< "ID386883",40399672,"Establishment closed.",0,0,1
+---
+> "ID386883",40399672,"Violations recorded after the inspection.",0,1,0
+23308c23308
+< "ID386908",41257059,"Establishment closed.",0,0,1
+---
+> "ID386908",41257059,"Violations recorded after the inspection.",0,1,0
+23333c23333
+< "ID386933",50015665,"Establishment closed.",0,0,1
+---
+> "ID386933",50015665,"Violations recorded after the inspection.",0,1,0
+23444c23444
+< "ID387044",41062281,"Violations recorded after the inspection.",0,1,0
+---
+> "ID387044",41062281,"Establishment closed.",0,0,1
+23453c23453
+< "ID387053",40616388,"Establishment closed.",0,0,1
+---
+> "ID387053",40616388,"Violations recorded after the inspection.",0,1,0
+23515c23515
+< "ID387115",50004367,"Establishment closed.",0,0,1
+---
+> "ID387115",50004367,"Violations recorded after the inspection.",0,1,0
+23644c23644
+< "ID387244",41705032,"Establishment closed.",0,0,1
+---
+> "ID387244",41705032,"Violations recorded after the inspection.",0,1,0
+23729,23730c23729,23730
+< "ID387329",41433265,"Violations recorded after the inspection.",0,1,0
+< "ID387330",41685002,"Establishment closed.",0,0,1
+---
+> "ID387329",41433265,"Establishment closed.",0,0,1
+> "ID387330",41685002,"Violations recorded after the inspection.",0,1,0
+23955c23955
+< "ID387555",41453811,"Violations recorded after the inspection.",0,1,0
+---
+> "ID387555",41453811,"Establishment closed.",0,0,1
+24012c24012
+< "ID387612",50041343,"Establishment closed.",0,0,1
+---
+> "ID387612",50041343,"No violations recorded after the inspection.",1,0,0
+24101c24101
+< "ID387701",41602871,"Establishment closed.",0,0,1
+---
+> "ID387701",41602871,"Violations recorded after the inspection.",0,1,0
+24127c24127
+< "ID387727",41450085,"Violations recorded after the inspection.",0,1,0
+---
+> "ID387727",41450085,"Establishment closed.",0,0,1
+24234c24234
+< "ID387834",50001962,"Violations recorded after the inspection.",0,1,0
+---
+> "ID387834",50001962,"Establishment closed.",0,0,1
+24239c24239
+< "ID387839",41677489,"Establishment closed.",0,0,1
+---
+> "ID387839",41677489,"Violations recorded after the inspection.",0,1,0
+24308c24308
+< "ID387908",50033207,"Violations recorded after the inspection.",0,1,0
+---
+> "ID387908",50033207,"Establishment closed.",0,0,1
+24357c24357
+< "ID387957",41565686,"Establishment closed.",0,0,1
+---
+> "ID387957",41565686,"Violations recorded after the inspection.",0,1,0
+24571c24571
+< "ID388171",40387746,"Violations recorded after the inspection.",0,1,0
+---
+> "ID388171",40387746,"Establishment closed.",0,0,1
+24598c24598
+< "ID388198",41253814,"Violations recorded after the inspection.",0,1,0
+---
+> "ID388198",41253814,"Establishment closed.",0,0,1
+24675c24675
+< "ID388275",50037688,"Establishment closed.",0,0,1
+---
+> "ID388275",50037688,"Violations recorded after the inspection.",0,1,0
+24721c24721
+< "ID388321",40394122,"Establishment closed.",0,0,1
+---
+> "ID388321",40394122,"Violations recorded after the inspection.",0,1,0
+24725c24725
+< "ID388325",50033252,"Establishment closed.",0,0,1
+---
+> "ID388325",50033252,"Violations recorded after the inspection.",0,1,0
+24756c24756
+< "ID388356",40747940,"Violations recorded after the inspection.",0,1,0
+---
+> "ID388356",40747940,"Establishment closed.",0,0,1
+24788c24788
+< "ID388388",41449143,"Violations recorded after the inspection.",0,1,0
+---
+> "ID388388",41449143,"Establishment closed.",0,0,1
+25045c25045
+< "ID388645",50017262,"Violations recorded after the inspection.",0,1,0
+---
+> "ID388645",50017262,"Establishment closed.",0,0,1
+25143c25143
+< "ID388743",40560896,"Violations recorded after the inspection.",0,1,0
+---
+> "ID388743",40560896,"Establishment closed.",0,0,1
+25228c25228
+< "ID388828",41387239,"Establishment closed.",0,0,1
+---
+> "ID388828",41387239,"Violations recorded after the inspection.",0,1,0
+25325c25325
+< "ID388925",50007413,"No violations recorded after the inspection.",1,0,0
+---
+> "ID388925",50007413,"Establishment closed.",0,0,1
+25356c25356
+< "ID388956",40611479,"Establishment closed.",0,0,1
+---
+> "ID388956",40611479,"Violations recorded after the inspection.",0,1,0
+25408c25408
+< "ID389008",50034994,"Establishment closed.",0,0,1
+---
+> "ID389008",50034994,"No violations recorded after the inspection.",1,0,0
+25572c25572
+< "ID389172",40959046,"Establishment closed.",0,0,1
+---
+> "ID389172",40959046,"Violations recorded after the inspection.",0,1,0
+25646c25646
+< "ID389246",50018037,"Establishment closed.",0,0,1
+---
+> "ID389246",50018037,"Violations recorded after the inspection.",0,1,0
+25775c25775
+< "ID389375",41605161,"Establishment closed.",0,0,1
+---
+> "ID389375",41605161,"Violations recorded after the inspection.",0,1,0
+25808c25808
+< "ID389408",50006153,"Establishment closed.",0,0,1
+---
+> "ID389408",50006153,"Violations recorded after the inspection.",0,1,0
+25850c25850
+< "ID389450",41015002,"No violations recorded after the inspection.",1,0,0
+---
+> "ID389450",41015002,"Establishment closed.",0,0,1
+25911c25911
+< "ID389511",50008279,"Establishment closed.",0,0,1
+---
+> "ID389511",50008279,"Violations recorded after the inspection.",0,1,0
+25917c25917
+< "ID389517",41405163,"Establishment closed.",0,0,1
+---
+> "ID389517",41405163,"Violations recorded after the inspection.",0,1,0
+25947c25947
+< "ID389547",41411052,"Establishment closed.",0,0,1
+---
+> "ID389547",41411052,"Violations recorded after the inspection.",0,1,0
+25962c25962
+< "ID389562",41318765,"Violations recorded after the inspection.",0,1,0
+---
+> "ID389562",41318765,"Establishment closed.",0,0,1
+25973c25973
+< "ID389573",50000966,"Establishment closed.",0,0,1
+---
+> "ID389573",50000966,"Violations recorded after the inspection.",0,1,0
+25992c25992
+< "ID389592",50042965,"Violations recorded after the inspection.",0,1,0
+---
+> "ID389592",50042965,"Establishment closed.",0,0,1
+26054c26054
+< "ID389654",41457591,"Establishment closed.",0,0,1
+---
+> "ID389654",41457591,"Violations recorded after the inspection.",0,1,0
+26057c26057
+< "ID389657",41683539,"Violations recorded after the inspection.",0,1,0
+---
+> "ID389657",41683539,"Establishment closed.",0,0,1
+26065c26065
+< "ID389665",50042781,"Establishment closed.",0,0,1
+---
+> "ID389665",50042781,"Violations recorded after the inspection.",0,1,0
+26204c26204
+< "ID389804",41596870,"Establishment closed.",0,0,1
+---
+> "ID389804",41596870,"Violations recorded after the inspection.",0,1,0
+26388c26388
+< "ID389988",41270972,"Establishment closed.",0,0,1
+---
+> "ID389988",41270972,"Violations recorded after the inspection.",0,1,0
+26479c26479
+< "ID390079",41694992,"Establishment closed.",0,0,1
+---
+> "ID390079",41694992,"Violations recorded after the inspection.",0,1,0
+26549c26549
+< "ID390149",50012159,"Violations recorded after the inspection.",0,1,0
+---
+> "ID390149",50012159,"Establishment closed.",0,0,1
+26552c26552
+< "ID390152",41406255,"Establishment closed.",0,0,1
+---
+> "ID390152",41406255,"Violations recorded after the inspection.",0,1,0
+26688c26688
+< "ID390288",41706722,"Violations recorded after the inspection.",0,1,0
+---
+> "ID390288",41706722,"Establishment closed.",0,0,1
+26705c26705
+< "ID390305",41399360,"Violations recorded after the inspection.",0,1,0
+---
+> "ID390305",41399360,"Establishment closed.",0,0,1
+26715c26715
+< "ID390315",40883586,"Violations recorded after the inspection.",0,1,0
+---
+> "ID390315",40883586,"Establishment closed.",0,0,1
+26765c26765
+< "ID390365",41266621,"Establishment closed.",0,0,1
+---
+> "ID390365",41266621,"No violations recorded after the inspection.",1,0,0
+26808c26808
+< "ID390408",40729164,"Establishment closed.",0,0,1
+---
+> "ID390408",40729164,"Violations recorded after the inspection.",0,1,0
+26818c26818
+< "ID390418",41211538,"Violations recorded after the inspection.",0,1,0
+---
+> "ID390418",41211538,"Establishment closed.",0,0,1
+26861c26861
+< "ID390461",40423563,"Establishment closed.",0,0,1
+---
+> "ID390461",40423563,"Violations recorded after the inspection.",0,1,0
+27124c27124
+< "ID390724",41696881,"Violations recorded after the inspection.",0,1,0
+---
+> "ID390724",41696881,"Establishment closed.",0,0,1
+27307c27307
+< "ID390907",50015465,"Establishment closed.",0,0,1
+---
+> "ID390907",50015465,"Violations recorded after the inspection.",0,1,0
+27477c27477
+< "ID391077",41656750,"Violations recorded after the inspection.",0,1,0
+---
+> "ID391077",41656750,"Establishment closed.",0,0,1
+27482c27482
+< "ID391082",50017167,"Establishment closed.",0,0,1
+---
+> "ID391082",50017167,"Violations recorded after the inspection.",0,1,0
+27510c27510
+< "ID391110",40513662,"Establishment closed.",0,0,1
+---
+> "ID391110",40513662,"Violations recorded after the inspection.",0,1,0
+27735c27735
+< "ID391335",41453151,"Establishment closed.",0,0,1
+---
+> "ID391335",41453151,"Violations recorded after the inspection.",0,1,0
+27924c27924
+< "ID391524",41174075,"Establishment closed.",0,0,1
+---
+> "ID391524",41174075,"Violations recorded after the inspection.",0,1,0
+27933c27933
+< "ID391533",50041166,"Establishment closed.",0,0,1
+---
+> "ID391533",50041166,"Violations recorded after the inspection.",0,1,0
+28048c28048
+< "ID391648",40582103,"Violations recorded after the inspection.",0,1,0
+---
+> "ID391648",40582103,"Establishment closed.",0,0,1
+28088c28088
+< "ID391688",41527847,"Violations recorded after the inspection.",0,1,0
+---
+> "ID391688",41527847,"Establishment closed.",0,0,1
+28171c28171
+< "ID391771",50012159,"Establishment closed.",0,0,1
+---
+> "ID391771",50012159,"Violations recorded after the inspection.",0,1,0
+28486c28486
+< "ID392086",40585966,"Establishment closed.",0,0,1
+---
+> "ID392086",40585966,"Violations recorded after the inspection.",0,1,0
+28556,28557c28556,28557
+< "ID392156",41576328,"Establishment closed.",0,0,1
+< "ID392157",40601696,"Establishment closed.",0,0,1
+---
+> "ID392156",41576328,"Violations recorded after the inspection.",0,1,0
+> "ID392157",40601696,"Violations recorded after the inspection.",0,1,0
+28740c28740
+< "ID392340",41381542,"Violations recorded after the inspection.",0,1,0
+---
+> "ID392340",41381542,"Establishment closed.",0,0,1
+28905c28905
+< "ID392505",50005283,"Establishment closed.",0,0,1
+---
+> "ID392505",50005283,"No violations recorded after the inspection.",1,0,0
+28964c28964
+< "ID392564",41062696,"Establishment closed.",0,0,1
+---
+> "ID392564",41062696,"Violations recorded after the inspection.",0,1,0
+29154c29154
+< "ID392754",41292582,"Establishment closed.",0,0,1
+---
+> "ID392754",41292582,"Violations recorded after the inspection.",0,1,0
+29163c29163
+< "ID392763",41242270,"Violations recorded after the inspection.",0,1,0
+---
+> "ID392763",41242270,"Establishment closed.",0,0,1
+29166c29166
+< "ID392766",50036930,"Establishment closed.",0,0,1
+---
+> "ID392766",50036930,"Violations recorded after the inspection.",0,1,0
+29305c29305
+< "ID392905",41514706,"Establishment closed.",0,0,1
+---
+> "ID392905",41514706,"Violations recorded after the inspection.",0,1,0
+29354c29354
+< "ID392954",41594371,"Establishment closed.",0,0,1
+---
+> "ID392954",41594371,"Violations recorded after the inspection.",0,1,0
+29428c29428
+< "ID393028",41461218,"Establishment closed.",0,0,1
+---
+> "ID393028",41461218,"Violations recorded after the inspection.",0,1,0
+29434c29434
+< "ID393034",50034182,"Establishment closed.",0,0,1
+---
+> "ID393034",50034182,"Violations recorded after the inspection.",0,1,0
+29437c29437
+< "ID393037",41335337,"Establishment closed.",0,0,1
+---
+> "ID393037",41335337,"Violations recorded after the inspection.",0,1,0
+29645c29645
+< "ID393245",50016137,"Establishment closed.",0,0,1
+---
+> "ID393245",50016137,"Violations recorded after the inspection.",0,1,0
+29685c29685
+< "ID393285",41382650,"Establishment closed.",0,0,1
+---
+> "ID393285",41382650,"Violations recorded after the inspection.",0,1,0
+29834c29834
+< "ID393434",41512813,"Establishment closed.",0,0,1
+---
+> "ID393434",41512813,"Violations recorded after the inspection.",0,1,0
+29857c29857
+< "ID393457",40944982,"Establishment closed.",0,0,1
+---
+> "ID393457",40944982,"Violations recorded after the inspection.",0,1,0
+29867c29867
+< "ID393467",41539993,"Establishment closed.",0,0,1
+---
+> "ID393467",41539993,"Violations recorded after the inspection.",0,1,0
+29890c29890
+< "ID393490",40610139,"Violations recorded after the inspection.",0,1,0
+---
+> "ID393490",40610139,"Establishment closed.",0,0,1
+29932c29932
+< "ID393532",41311453,"Establishment closed.",0,0,1
+---
+> "ID393532",41311453,"Violations recorded after the inspection.",0,1,0
+29981c29981
+< "ID393581",50036518,"Establishment closed.",0,0,1
+---
+> "ID393581",50036518,"Violations recorded after the inspection.",0,1,0
+29995c29995
+< "ID393595",40965172,"Establishment closed.",0,0,1
+---
+> "ID393595",40965172,"Violations recorded after the inspection.",0,1,0
+30014c30014
+< "ID393614",41497405,"Establishment closed.",0,0,1
+---
+> "ID393614",41497405,"Violations recorded after the inspection.",0,1,0
+30066c30066
+< "ID393666",40993070,"Establishment closed.",0,0,1
+---
+> "ID393666",40993070,"Violations recorded after the inspection.",0,1,0
+30373c30373
+< "ID393973",41557354,"Establishment closed.",0,0,1
+---
+> "ID393973",41557354,"Violations recorded after the inspection.",0,1,0
+30428c30428
+< "ID394028",41450085,"Violations recorded after the inspection.",0,1,0
+---
+> "ID394028",41450085,"Establishment closed.",0,0,1
+30529c30529
+< "ID394129",50006377,"Establishment closed.",0,0,1
+---
+> "ID394129",50006377,"Violations recorded after the inspection.",0,1,0
+30595c30595
+< "ID394195",40721417,"Establishment closed.",0,0,1
+---
+> "ID394195",40721417,"Violations recorded after the inspection.",0,1,0
+30599c30599
+< "ID394199",50000040,"Establishment closed.",0,0,1
+---
+> "ID394199",50000040,"Violations recorded after the inspection.",0,1,0
+30772c30772
+< "ID394372",40611479,"Establishment closed.",0,0,1
+---
+> "ID394372",40611479,"Violations recorded after the inspection.",0,1,0
+30798c30798
+< "ID394398",41379907,"Establishment closed.",0,0,1
+---
+> "ID394398",41379907,"No violations recorded after the inspection.",1,0,0
+30827c30827
+< "ID394427",41530497,"Establishment closed.",0,0,1
+---
+> "ID394427",41530497,"Violations recorded after the inspection.",0,1,0
+30836c30836
+< "ID394436",41683539,"Violations recorded after the inspection.",0,1,0
+---
+> "ID394436",41683539,"Establishment closed.",0,0,1
+30865c30865
+< "ID394465",50017071,"Establishment closed.",0,0,1
+---
+> "ID394465",50017071,"Violations recorded after the inspection.",0,1,0
+30885c30885
+< "ID394485",40914031,"Establishment closed.",0,0,1
+---
+> "ID394485",40914031,"Violations recorded after the inspection.",0,1,0
+30963c30963
+< "ID394563",41164678,"Violations recorded after the inspection.",0,1,0
+---
+> "ID394563",41164678,"Establishment closed.",0,0,1
+30968c30968
+< "ID394568",50001060,"Violations recorded after the inspection.",0,1,0
+---
+> "ID394568",50001060,"Establishment closed.",0,0,1
+31125c31125
+< "ID394725",40596246,"Establishment closed.",0,0,1
+---
+> "ID394725",40596246,"Violations recorded after the inspection.",0,1,0
+31137c31137
+< "ID394737",41164678,"Violations recorded after the inspection.",0,1,0
+---
+> "ID394737",41164678,"Establishment closed.",0,0,1
+31251c31251
+< "ID394851",50044107,"Establishment closed.",0,0,1
+---
+> "ID394851",50044107,"Violations recorded after the inspection.",0,1,0
+31366c31366
+< "ID394966",41549301,"Establishment closed.",0,0,1
+---
+> "ID394966",41549301,"Violations recorded after the inspection.",0,1,0
+31440c31440
+< "ID395040",41599951,"Establishment closed.",0,0,1
+---
+> "ID395040",41599951,"Violations recorded after the inspection.",0,1,0
+31579c31579
+< "ID395179",41638762,"Establishment closed.",0,0,1
+---
+> "ID395179",41638762,"Violations recorded after the inspection.",0,1,0
+31618c31618
+< "ID395218",41405150,"Establishment closed.",0,0,1
+---
+> "ID395218",41405150,"Violations recorded after the inspection.",0,1,0
+31759c31759
+< "ID395359",50046134,"Establishment closed.",0,0,1
+---
+> "ID395359",50046134,"Violations recorded after the inspection.",0,1,0
+31762c31762
+< "ID395362",50000430,"Establishment closed.",0,0,1
+---
+> "ID395362",50000430,"Violations recorded after the inspection.",0,1,0
+31774c31774
+< "ID395374",41626426,"Violations recorded after the inspection.",0,1,0
+---
+> "ID395374",41626426,"Establishment closed.",0,0,1
+31794c31794
+< "ID395394",41594758,"Establishment closed.",0,0,1
+---
+> "ID395394",41594758,"Violations recorded after the inspection.",0,1,0
+31972c31972
+< "ID395572",50003921,"Establishment closed.",0,0,1
+---
+> "ID395572",50003921,"Violations recorded after the inspection.",0,1,0
+31986c31986
+< "ID395586",40365893,"Establishment closed.",0,0,1
+---
+> "ID395586",40365893,"Violations recorded after the inspection.",0,1,0
+32158c32158
+< "ID395758",40659758,"Violations recorded after the inspection.",0,1,0
+---
+> "ID395758",40659758,"Establishment closed.",0,0,1
+32218c32218
+< "ID395818",41562128,"Establishment closed.",0,0,1
+---
+> "ID395818",41562128,"Violations recorded after the inspection.",0,1,0
+32429c32429
+< "ID396029",50013752,"Establishment closed.",0,0,1
+---
+> "ID396029",50013752,"Violations recorded after the inspection.",0,1,0
+32435c32435
+< "ID396035",41379907,"Establishment closed.",0,0,1
+---
+> "ID396035",41379907,"Violations recorded after the inspection.",0,1,0
+32469c32469
+< "ID396069",41304510,"Violations recorded after the inspection.",0,1,0
+---
+> "ID396069",41304510,"Establishment closed.",0,0,1
+32567c32567
+< "ID396167",41612015,"Establishment closed.",0,0,1
+---
+> "ID396167",41612015,"Violations recorded after the inspection.",0,1,0
+32694c32694
+< "ID396294",41616526,"Violations recorded after the inspection.",0,1,0
+---
+> "ID396294",41616526,"Establishment closed.",0,0,1
+32751c32751
+< "ID396351",50001535,"Violations recorded after the inspection.",0,1,0
+---
+> "ID396351",50001535,"Establishment closed.",0,0,1
+32816c32816
+< "ID396416",50009758,"Violations recorded after the inspection.",0,1,0
+---
+> "ID396416",50009758,"Establishment closed.",0,0,1
+32842c32842
+< "ID396442",50015253,"Establishment closed.",0,0,1
+---
+> "ID396442",50015253,"Violations recorded after the inspection.",0,1,0
+32955c32955
+< "ID396555",41297769,"No violations recorded after the inspection.",1,0,0
+---
+> "ID396555",41297769,"Establishment closed.",0,0,1
+32957c32957
+< "ID396557",40883586,"Violations recorded after the inspection.",0,1,0
+---
+> "ID396557",40883586,"Establishment closed.",0,0,1
+33193c33193
+< "ID396793",40929013,"Violations recorded after the inspection.",0,1,0
+---
+> "ID396793",40929013,"Establishment closed.",0,0,1
+33448c33448
+< "ID397048",41708744,"Establishment closed.",0,0,1
+---
+> "ID397048",41708744,"Violations recorded after the inspection.",0,1,0
+33455c33455
+< "ID397055",41164793,"Establishment closed.",0,0,1
+---
+> "ID397055",41164793,"Violations recorded after the inspection.",0,1,0
+33600c33600
+< "ID397200",41505982,"Establishment closed.",0,0,1
+---
+> "ID397200",41505982,"Violations recorded after the inspection.",0,1,0
+33790c33790
+< "ID397390",50042251,"Establishment closed.",0,0,1
+---
+> "ID397390",50042251,"Violations recorded after the inspection.",0,1,0
+33838c33838
+< "ID397438",41527379,"Establishment closed.",0,0,1
+---
+> "ID397438",41527379,"Violations recorded after the inspection.",0,1,0
+33870c33870
+< "ID397470",40743421,"Establishment closed.",0,0,1
+---
+> "ID397470",40743421,"No violations recorded after the inspection.",1,0,0
+33906c33906
+< "ID397506",50001516,"Violations recorded after the inspection.",0,1,0
+---
+> "ID397506",50001516,"Establishment closed.",0,0,1
+33944c33944
+< "ID397544",40582335,"Establishment closed.",0,0,1
+---
+> "ID397544",40582335,"Violations recorded after the inspection.",0,1,0
+33946c33946
+< "ID397546",41068439,"Violations recorded after the inspection.",0,1,0
+---
+> "ID397546",41068439,"Establishment closed.",0,0,1
+33967c33967
+< "ID397567",41187602,"Violations recorded after the inspection.",0,1,0
+---
+> "ID397567",41187602,"Establishment closed.",0,0,1
+33993c33993
+< "ID397593",50001215,"Violations recorded after the inspection.",0,1,0
+---
+> "ID397593",50001215,"Establishment closed.",0,0,1
+33996c33996
+< "ID397596",50018870,"No violations recorded after the inspection.",1,0,0
+---
+> "ID397596",50018870,"Violations recorded after the inspection.",0,1,0
+34038c34038
+< "ID397638",50035614,"Establishment closed.",0,0,1
+---
+> "ID397638",50035614,"Violations recorded after the inspection.",0,1,0
+34133c34133
+< "ID397733",41714016,"Establishment closed.",0,0,1
+---
+> "ID397733",41714016,"Violations recorded after the inspection.",0,1,0
+34148c34148
+< "ID397748",41688672,"Establishment closed.",0,0,1
+---
+> "ID397748",41688672,"Violations recorded after the inspection.",0,1,0
+34247c34247
+< "ID397847",50037688,"Establishment closed.",0,0,1
+---
+> "ID397847",50037688,"Violations recorded after the inspection.",0,1,0
+34275c34275
+< "ID397875",41415704,"Establishment closed.",0,0,1
+---
+> "ID397875",41415704,"Violations recorded after the inspection.",0,1,0
+34365c34365
+< "ID397965",40582335,"Establishment closed.",0,0,1
+---
+> "ID397965",40582335,"Violations recorded after the inspection.",0,1,0
+34416c34416
+< "ID398016",41688594,"Violations recorded after the inspection.",0,1,0
+---
+> "ID398016",41688594,"Establishment closed.",0,0,1
+34434c34434
+< "ID398034",41705732,"No violations recorded after the inspection.",1,0,0
+---
+> "ID398034",41705732,"Establishment closed.",0,0,1
+34660c34660
+< "ID398260",50018271,"Establishment closed.",0,0,1
+---
+> "ID398260",50018271,"Violations recorded after the inspection.",0,1,0
+34843c34843
+< "ID398443",50001672,"Violations recorded after the inspection.",0,1,0
+---
+> "ID398443",50001672,"Establishment closed.",0,0,1
+34847c34847
+< "ID398447",41554321,"Establishment closed.",0,0,1
+---
+> "ID398447",41554321,"Violations recorded after the inspection.",0,1,0
+34862c34862
+< "ID398462",41310853,"Establishment closed.",0,0,1
+---
+> "ID398462",41310853,"Violations recorded after the inspection.",0,1,0
+34908c34908
+< "ID398508",41265584,"Establishment closed.",0,0,1
+---
+> "ID398508",41265584,"Violations recorded after the inspection.",0,1,0
+34911c34911
+< "ID398511",41720707,"Establishment closed.",0,0,1
+---
+> "ID398511",41720707,"Violations recorded after the inspection.",0,1,0
+34956c34956
+< "ID398556",41713701,"Violations recorded after the inspection.",0,1,0
+---
+> "ID398556",41713701,"Establishment closed.",0,0,1
+34980c34980
+< "ID398580",50036518,"Establishment closed.",0,0,1
+---
+> "ID398580",50036518,"Violations recorded after the inspection.",0,1,0
+35014c35014
+< "ID398614",41628567,"Establishment closed.",0,0,1
+---
+> "ID398614",41628567,"Violations recorded after the inspection.",0,1,0
+35047c35047
+< "ID398647",41685002,"Establishment closed.",0,0,1
+---
+> "ID398647",41685002,"Violations recorded after the inspection.",0,1,0
+35064c35064
+< "ID398664",50005299,"Establishment closed.",0,0,1
+---
+> "ID398664",50005299,"Violations recorded after the inspection.",0,1,0
+35212c35212
+< "ID398812",40795070,"Establishment closed.",0,0,1
+---
+> "ID398812",40795070,"Violations recorded after the inspection.",0,1,0
+35308c35308
+< "ID398908",41338303,"No violations recorded after the inspection.",1,0,0
+---
+> "ID398908",41338303,"Violations recorded after the inspection.",0,1,0
+35386c35386
+< "ID398986",41429788,"Establishment closed.",0,0,1
+---
+> "ID398986",41429788,"Violations recorded after the inspection.",0,1,0
+35391c35391
+< "ID398991",50005784,"Violations recorded after the inspection.",0,1,0
+---
+> "ID398991",50005784,"Establishment closed.",0,0,1
+35469c35469
+< "ID399069",50009222,"No violations recorded after the inspection.",1,0,0
+---
+> "ID399069",50009222,"Violations recorded after the inspection.",0,1,0
+35478c35478
+< "ID399078",41502796,"Establishment closed.",0,0,1
+---
+> "ID399078",41502796,"Violations recorded after the inspection.",0,1,0
+35495c35495
+< "ID399095",50007427,"Establishment closed.",0,0,1
+---
+> "ID399095",50007427,"Violations recorded after the inspection.",0,1,0
+35862c35862
+< "ID399462",41466837,"Establishment closed.",0,0,1
+---
+> "ID399462",41466837,"No violations recorded after the inspection.",1,0,0
+35868c35868
+< "ID399468",50009420,"Establishment closed.",0,0,1
+---
+> "ID399468",50009420,"Violations recorded after the inspection.",0,1,0
+35930c35930
+< "ID399530",41697874,"Establishment closed.",0,0,1
+---
+> "ID399530",41697874,"Violations recorded after the inspection.",0,1,0
+35934c35934
+< "ID399534",50004323,"Establishment closed.",0,0,1
+---
+> "ID399534",50004323,"Violations recorded after the inspection.",0,1,0
+36000c36000
+< "ID399600",50001215,"Violations recorded after the inspection.",0,1,0
+---
+> "ID399600",50001215,"Establishment closed.",0,0,1
+36039c36039
+< "ID399639",50001557,"Establishment closed.",0,0,1
+---
+> "ID399639",50001557,"Violations recorded after the inspection.",0,1,0
+36147c36147
+< "ID399747",41149575,"Establishment closed.",0,0,1
+---
+> "ID399747",41149575,"Violations recorded after the inspection.",0,1,0
+36269c36269
+< "ID399869",50001114,"No violations recorded after the inspection.",1,0,0
+---
+> "ID399869",50001114,"Establishment closed.",0,0,1
+36284c36284
+< "ID399884",41682097,"Establishment closed.",0,0,1
+---
+> "ID399884",41682097,"Violations recorded after the inspection.",0,1,0
+36622c36622
+< "ID400222",40394329,"Establishment closed.",0,0,1
+---
+> "ID400222",40394329,"Violations recorded after the inspection.",0,1,0
+36628c36628
+< "ID400228",50002381,"Establishment closed.",0,0,1
+---
+> "ID400228",50002381,"Violations recorded after the inspection.",0,1,0
+36690c36690
+< "ID400290",41705834,"Establishment closed.",0,0,1
+---
+> "ID400290",41705834,"Violations recorded after the inspection.",0,1,0
+36897c36897
+< "ID400497",41612015,"Establishment closed.",0,0,1
+---
+> "ID400497",41612015,"Violations recorded after the inspection.",0,1,0
+36957c36957
+< "ID400557",40949604,"Establishment closed.",0,0,1
+---
+> "ID400557",40949604,"No violations recorded after the inspection.",1,0,0
+36984c36984
+< "ID400584",50015614,"No violations recorded after the inspection.",1,0,0
+---
+> "ID400584",50015614,"Violations recorded after the inspection.",0,1,0
+37001c37001
+< "ID400601",41583748,"Establishment closed.",0,0,1
+---
+> "ID400601",41583748,"Violations recorded after the inspection.",0,1,0
+37035c37035
+< "ID400635",41177205,"Establishment closed.",0,0,1
+---
+> "ID400635",41177205,"Violations recorded after the inspection.",0,1,0
+37157c37157
+< "ID400757",50007450,"Violations recorded after the inspection.",0,1,0
+---
+> "ID400757",50007450,"Establishment closed.",0,0,1
+37161c37161
+< "ID400761",50003448,"Establishment closed.",0,0,1
+---
+> "ID400761",50003448,"Violations recorded after the inspection.",0,1,0
+37219c37219
+< "ID400819",41456771,"Establishment closed.",0,0,1
+---
+> "ID400819",41456771,"Violations recorded after the inspection.",0,1,0
+37488c37488
+< "ID401088",41405150,"Establishment closed.",0,0,1
+---
+> "ID401088",41405150,"Violations recorded after the inspection.",0,1,0
+37498c37498
+< "ID401098",40994965,"Establishment closed.",0,0,1
+---
+> "ID401098",40994965,"Violations recorded after the inspection.",0,1,0
+37504c37504
+< "ID401104",41701897,"Establishment closed.",0,0,1
+---
+> "ID401104",41701897,"Violations recorded after the inspection.",0,1,0
+37645c37645
+< "ID401245",41253552,"Violations recorded after the inspection.",0,1,0
+---
+> "ID401245",41253552,"Establishment closed.",0,0,1
+37703c37703
+< "ID401303",50038481,"Establishment closed.",0,0,1
+---
+> "ID401303",50038481,"Violations recorded after the inspection.",0,1,0
+37767c37767
+< "ID401367",41704068,"Establishment closed.",0,0,1
+---
+> "ID401367",41704068,"Violations recorded after the inspection.",0,1,0
+37828c37828
+< "ID401428",50005457,"No violations recorded after the inspection.",1,0,0
+---
+> "ID401428",50005457,"Violations recorded after the inspection.",0,1,0
+37833c37833
+< "ID401433",41038028,"Establishment closed.",0,0,1
+---
+> "ID401433",41038028,"Violations recorded after the inspection.",0,1,0
+37869c37869
+< "ID401469",41529681,"Establishment closed.",0,0,1
+---
+> "ID401469",41529681,"Violations recorded after the inspection.",0,1,0
+37889c37889
+< "ID401489",41602559,"Violations recorded after the inspection.",0,1,0
+---
+> "ID401489",41602559,"Establishment closed.",0,0,1
+37898c37898
+< "ID401498",50001483,"Establishment closed.",0,0,1
+---
+> "ID401498",50001483,"Violations recorded after the inspection.",0,1,0
+38088c38088
+< "ID401688",41241627,"Establishment closed.",0,0,1
+---
+> "ID401688",41241627,"Violations recorded after the inspection.",0,1,0
+38164c38164
+< "ID401764",41627290,"Establishment closed.",0,0,1
+---
+> "ID401764",41627290,"No violations recorded after the inspection.",1,0,0
+38211c38211
+< "ID401811",41703625,"Establishment closed.",0,0,1
+---
+> "ID401811",41703625,"Violations recorded after the inspection.",0,1,0
+38401c38401
+< "ID402001",41489230,"Establishment closed.",0,0,1
+---
+> "ID402001",41489230,"Violations recorded after the inspection.",0,1,0
+38417,38418c38417,38418
+< "ID402017",41468766,"Establishment closed.",0,0,1
+< "ID402018",50033077,"Establishment closed.",0,0,1
+---
+> "ID402017",41468766,"Violations recorded after the inspection.",0,1,0
+> "ID402018",50033077,"Violations recorded after the inspection.",0,1,0
+38431c38431
+< "ID402031",41233172,"Establishment closed.",0,0,1
+---
+> "ID402031",41233172,"Violations recorded after the inspection.",0,1,0
+38449c38449
+< "ID402049",41177009,"Establishment closed.",0,0,1
+---
+> "ID402049",41177009,"Violations recorded after the inspection.",0,1,0
+38501c38501
+< "ID402101",50018586,"Establishment closed.",0,0,1
+---
+> "ID402101",50018586,"Violations recorded after the inspection.",0,1,0
+38637c38637
+< "ID402237",40681411,"Violations recorded after the inspection.",0,1,0
+---
+> "ID402237",40681411,"Establishment closed.",0,0,1
+38725c38725
+< "ID402325",41708320,"Establishment closed.",0,0,1
+---
+> "ID402325",41708320,"Violations recorded after the inspection.",0,1,0
+38787c38787
+< "ID402387",41544554,"Establishment closed.",0,0,1
+---
+> "ID402387",41544554,"Violations recorded after the inspection.",0,1,0
+39019c39019
+< "ID402619",50013752,"Establishment closed.",0,0,1
+---
+> "ID402619",50013752,"Violations recorded after the inspection.",0,1,0
+39039c39039
+< "ID402639",40714371,"Establishment closed.",0,0,1
+---
+> "ID402639",40714371,"Violations recorded after the inspection.",0,1,0
+39112c39112
+< "ID402712",41026458,"Establishment closed.",0,0,1
+---
+> "ID402712",41026458,"Violations recorded after the inspection.",0,1,0
+39119c39119
+< "ID402719",41454471,"Establishment closed.",0,0,1
+---
+> "ID402719",41454471,"Violations recorded after the inspection.",0,1,0
+39356c39356
+< "ID402956",41454471,"Establishment closed.",0,0,1
+---
+> "ID402956",41454471,"Violations recorded after the inspection.",0,1,0
+39373c39373
+< "ID402973",50018060,"Establishment closed.",0,0,1
+---
+> "ID402973",50018060,"Violations recorded after the inspection.",0,1,0
+39436c39436
+< "ID403036",41519587,"Establishment closed.",0,0,1
+---
+> "ID403036",41519587,"Violations recorded after the inspection.",0,1,0
+39737c39737
+< "ID403337",40397180,"Establishment closed.",0,0,1
+---
+> "ID403337",40397180,"Violations recorded after the inspection.",0,1,0
+39893c39893
+< "ID403493",40999268,"Establishment closed.",0,0,1
+---
+> "ID403493",40999268,"Violations recorded after the inspection.",0,1,0
+39904c39904
+< "ID403504",40382900,"Violations recorded after the inspection.",0,1,0
+---
+> "ID403504",40382900,"Establishment closed.",0,0,1
+39959c39959
+< "ID403559",41720706,"Establishment closed.",0,0,1
+---
+> "ID403559",41720706,"Violations recorded after the inspection.",0,1,0
+40009c40009
+< "ID403609",41665562,"Establishment closed.",0,0,1
+---
+> "ID403609",41665562,"Violations recorded after the inspection.",0,1,0
+40074c40074
+< "ID403674",50033514,"Violations recorded after the inspection.",0,1,0
+---
+> "ID403674",50033514,"Establishment closed.",0,0,1
+40096c40096
+< "ID403696",40387237,"Establishment closed.",0,0,1
+---
+> "ID403696",40387237,"Violations recorded after the inspection.",0,1,0
+40130c40130
+< "ID403730",41217194,"Establishment closed.",0,0,1
+---
+> "ID403730",41217194,"Violations recorded after the inspection.",0,1,0
+40353c40353
+< "ID403953",41708744,"Establishment closed.",0,0,1
+---
+> "ID403953",41708744,"Violations recorded after the inspection.",0,1,0
+40391c40391
+< "ID403991",50005724,"No violations recorded after the inspection.",1,0,0
+---
+> "ID403991",50005724,"Violations recorded after the inspection.",0,1,0
+40395c40395
+< "ID403995",50033252,"Establishment closed.",0,0,1
+---
+> "ID403995",50033252,"Violations recorded after the inspection.",0,1,0
+40436c40436
+< "ID404036",41387635,"Violations recorded after the inspection.",0,1,0
+---
+> "ID404036",41387635,"Establishment closed.",0,0,1
+40632c40632
+< "ID404232",40949905,"Establishment closed.",0,0,1
+---
+> "ID404232",40949905,"Violations recorded after the inspection.",0,1,0
+40839c40839
+< "ID404439",41708320,"Establishment closed.",0,0,1
+---
+> "ID404439",41708320,"Violations recorded after the inspection.",0,1,0
+40882c40882
+< "ID404482",41711186,"Establishment closed.",0,0,1
+---
+> "ID404482",41711186,"Violations recorded after the inspection.",0,1,0
+40928c40928
+< "ID404528",41523349,"Establishment closed.",0,0,1
+---
+> "ID404528",41523349,"Violations recorded after the inspection.",0,1,0
+40951c40951
+< "ID404551",41562680,"Establishment closed.",0,0,1
+---
+> "ID404551",41562680,"Violations recorded after the inspection.",0,1,0
+40972c40972
+< "ID404572",41602559,"Establishment closed.",0,0,1
+---
+> "ID404572",41602559,"Violations recorded after the inspection.",0,1,0
+41049c41049
+< "ID404649",41583748,"Establishment closed.",0,0,1
+---
+> "ID404649",41583748,"Violations recorded after the inspection.",0,1,0
+41073c41073
+< "ID404673",41719115,"Establishment closed.",0,0,1
+---
+> "ID404673",41719115,"Violations recorded after the inspection.",0,1,0
+41122c41122
+< "ID404722",41608854,"Violations recorded after the inspection.",0,1,0
+---
+> "ID404722",41608854,"Establishment closed.",0,0,1
+41270c41270
+< "ID404870",41382954,"Establishment closed.",0,0,1
+---
+> "ID404870",41382954,"Violations recorded after the inspection.",0,1,0
+41295c41295
+< "ID404895",50046649,"Establishment closed.",0,0,1
+---
+> "ID404895",50046649,"Violations recorded after the inspection.",0,1,0
+41437c41437
+< "ID405037",41231076,"Establishment closed.",0,0,1
+---
+> "ID405037",41231076,"Violations recorded after the inspection.",0,1,0
+41534c41534
+< "ID405134",50004076,"Establishment closed.",0,0,1
+---
+> "ID405134",50004076,"Violations recorded after the inspection.",0,1,0
+41548c41548
+< "ID405148",40398690,"Establishment closed.",0,0,1
+---
+> "ID405148",40398690,"Violations recorded after the inspection.",0,1,0
+41568c41568
+< "ID405168",41406255,"Establishment closed.",0,0,1
+---
+> "ID405168",41406255,"Violations recorded after the inspection.",0,1,0
+41756c41756
+< "ID405356",41164793,"Establishment closed.",0,0,1
+---
+> "ID405356",41164793,"Violations recorded after the inspection.",0,1,0
+41808c41808
+< "ID405408",50014387,"Violations recorded after the inspection.",0,1,0
+---
+> "ID405408",50014387,"Establishment closed.",0,0,1
+41947c41947
+< "ID405547",41257059,"Establishment closed.",0,0,1
+---
+> "ID405547",41257059,"Violations recorded after the inspection.",0,1,0
+42064c42064
+< "ID405664",41453811,"Violations recorded after the inspection.",0,1,0
+---
+> "ID405664",41453811,"Establishment closed.",0,0,1
+42280c42280
+< "ID405880",41351576,"Violations recorded after the inspection.",0,1,0
+---
+> "ID405880",41351576,"Establishment closed.",0,0,1
+42303c42303
+< "ID405903",50048336,"Establishment closed.",0,0,1
+---
+> "ID405903",50048336,"Violations recorded after the inspection.",0,1,0
+42463c42463
+< "ID406063",40370935,"Establishment closed.",0,0,1
+---
+> "ID406063",40370935,"Violations recorded after the inspection.",0,1,0
+42480c42480
+< "ID406080",41630826,"Violations recorded after the inspection.",0,1,0
+---
+> "ID406080",41630826,"Establishment closed.",0,0,1
+42497c42497
+< "ID406097",41378862,"Establishment closed.",0,0,1
+---
+> "ID406097",41378862,"Violations recorded after the inspection.",0,1,0
+42621c42621
+< "ID406221",50013536,"Establishment closed.",0,0,1
+---
+> "ID406221",50013536,"Violations recorded after the inspection.",0,1,0
+42789c42789
+< "ID406389",41592230,"Establishment closed.",0,0,1
+---
+> "ID406389",41592230,"Violations recorded after the inspection.",0,1,0
+42880c42880
+< "ID406480",41677015,"Establishment closed.",0,0,1
+---
+> "ID406480",41677015,"Violations recorded after the inspection.",0,1,0
+42920c42920
+< "ID406520",40364389,"Violations recorded after the inspection.",0,1,0
+---
+> "ID406520",40364389,"Establishment closed.",0,0,1
+42936c42936
+< "ID406536",40364179,"No violations recorded after the inspection.",1,0,0
+---
+> "ID406536",40364179,"Establishment closed.",0,0,1
+43051c43051
+< "ID406651",41623638,"Violations recorded after the inspection.",0,1,0
+---
+> "ID406651",41623638,"Establishment closed.",0,0,1
+43192c43192
+< "ID406792",41411052,"Establishment closed.",0,0,1
+---
+> "ID406792",41411052,"Violations recorded after the inspection.",0,1,0
+43195c43195
+< "ID406795",50016894,"Establishment closed.",0,0,1
+---
+> "ID406795",50016894,"Violations recorded after the inspection.",0,1,0
+43265c43265
+< "ID406865",41184142,"Establishment closed.",0,0,1
+---
+> "ID406865",41184142,"Violations recorded after the inspection.",0,1,0
+43300c43300
+< "ID406900",50000381,"Establishment closed.",0,0,1
+---
+> "ID406900",50000381,"Violations recorded after the inspection.",0,1,0
+43319c43319
+< "ID406919",41713540,"Establishment closed.",0,0,1
+---
+> "ID406919",41713540,"Violations recorded after the inspection.",0,1,0
+43496c43496
+< "ID407096",50016844,"Establishment closed.",0,0,1
+---
+> "ID407096",50016844,"Violations recorded after the inspection.",0,1,0
+43684c43684
+< "ID407284",50002920,"Establishment closed.",0,0,1
+---
+> "ID407284",50002920,"Violations recorded after the inspection.",0,1,0
+43794c43794
+< "ID407394",50018087,"Establishment closed.",0,0,1
+---
+> "ID407394",50018087,"Violations recorded after the inspection.",0,1,0
+43953c43953
+< "ID407553",50009349,"Violations recorded after the inspection.",0,1,0
+---
+> "ID407553",50009349,"Establishment closed.",0,0,1
+44012c44012
+< "ID407612",40741534,"Establishment closed.",0,0,1
+---
+> "ID407612",40741534,"Violations recorded after the inspection.",0,1,0
+44202c44202
+< "ID407802",41706342,"Establishment closed.",0,0,1
+---
+> "ID407802",41706342,"Violations recorded after the inspection.",0,1,0
+44338c44338
+< "ID407938",41416164,"Violations recorded after the inspection.",0,1,0
+---
+> "ID407938",41416164,"Establishment closed.",0,0,1
+44355c44355
+< "ID407955",40624470,"Establishment closed.",0,0,1
+---
+> "ID407955",40624470,"Violations recorded after the inspection.",0,1,0
+44399c44399
+< "ID407999",50000948,"Violations recorded after the inspection.",0,1,0
+---
+> "ID407999",50000948,"Establishment closed.",0,0,1
+44523c44523
+< "ID408123",41319055,"Establishment closed.",0,0,1
+---
+> "ID408123",41319055,"Violations recorded after the inspection.",0,1,0
+44531c44531
+< "ID408131",41273111,"Establishment closed.",0,0,1
+---
+> "ID408131",41273111,"Violations recorded after the inspection.",0,1,0
+44534c44534
+< "ID408134",50018468,"Violations recorded after the inspection.",0,1,0
+---
+> "ID408134",50018468,"Establishment closed.",0,0,1
+44542c44542
+< "ID408142",41656155,"Establishment closed.",0,0,1
+---
+> "ID408142",41656155,"Violations recorded after the inspection.",0,1,0
+44629c44629
+< "ID408229",41549554,"Establishment closed.",0,0,1
+---
+> "ID408229",41549554,"Violations recorded after the inspection.",0,1,0
+44783c44783
+< "ID408383",50048053,"Establishment closed.",0,0,1
+---
+> "ID408383",50048053,"Violations recorded after the inspection.",0,1,0
+44790c44790
+< "ID408390",40755172,"Establishment closed.",0,0,1
+---
+> "ID408390",40755172,"Violations recorded after the inspection.",0,1,0
+44889c44889
+< "ID408489",40424955,"Establishment closed.",0,0,1
+---
+> "ID408489",40424955,"Violations recorded after the inspection.",0,1,0
+44952c44952
+< "ID408552",41462275,"Establishment closed.",0,0,1
+---
+> "ID408552",41462275,"Violations recorded after the inspection.",0,1,0
+45036c45036
+< "ID408636",41602559,"Establishment closed.",0,0,1
+---
+> "ID408636",41602559,"Violations recorded after the inspection.",0,1,0
+45117c45117
+< "ID408717",50042965,"Violations recorded after the inspection.",0,1,0
+---
+> "ID408717",50042965,"Establishment closed.",0,0,1
+45399c45399
+< "ID408999",41234471,"Establishment closed.",0,0,1
+---
+> "ID408999",41234471,"Violations recorded after the inspection.",0,1,0
+45671c45671
+< "ID409271",41177205,"Establishment closed.",0,0,1
+---
+> "ID409271",41177205,"Violations recorded after the inspection.",0,1,0
+45674c45674
+< "ID409274",41684996,"Establishment closed.",0,0,1
+---
+> "ID409274",41684996,"Violations recorded after the inspection.",0,1,0
+45876c45876
+< "ID409476",41417901,"Establishment closed.",0,0,1
+---
+> "ID409476",41417901,"Violations recorded after the inspection.",0,1,0
+45904c45904
+< "ID409504",40545967,"Establishment closed.",0,0,1
+---
+> "ID409504",40545967,"Violations recorded after the inspection.",0,1,0
+45933c45933
+< "ID409533",41674322,"Establishment closed.",0,0,1
+---
+> "ID409533",41674322,"Violations recorded after the inspection.",0,1,0
+46177c46177
+< "ID409777",40370425,"Establishment closed.",0,0,1
+---
+> "ID409777",40370425,"Violations recorded after the inspection.",0,1,0
+46620c46620
+< "ID410220",50033235,"Establishment closed.",0,0,1
+---
+> "ID410220",50033235,"Violations recorded after the inspection.",0,1,0
+46798c46798
+< "ID410398",41222450,"Violations recorded after the inspection.",0,1,0
+---
+> "ID410398",41222450,"Establishment closed.",0,0,1
+46827c46827
+< "ID410427",41297769,"Violations recorded after the inspection.",0,1,0
+---
+> "ID410427",41297769,"Establishment closed.",0,0,1
+46868c46868
+< "ID410468",50016534,"Establishment closed.",0,0,1
+---
+> "ID410468",50016534,"Violations recorded after the inspection.",0,1,0
+46886c46886
+< "ID410486",41596870,"Establishment closed.",0,0,1
+---
+> "ID410486",41596870,"Violations recorded after the inspection.",0,1,0
+46930c46930
+< "ID410530",41677015,"Violations recorded after the inspection.",0,1,0
+---
+> "ID410530",41677015,"Establishment closed.",0,0,1
+47013c47013
+< "ID410613",40987023,"Violations recorded after the inspection.",0,1,0
+---
+> "ID410613",40987023,"Establishment closed.",0,0,1
+47120c47120
+< "ID410720",40639085,"Establishment closed.",0,0,1
+---
+> "ID410720",40639085,"Violations recorded after the inspection.",0,1,0
+47150c47150
+< "ID410750",41433437,"Establishment closed.",0,0,1
+---
+> "ID410750",41433437,"Violations recorded after the inspection.",0,1,0
+47172c47172
+< "ID410772",40843285,"Violations recorded after the inspection.",0,1,0
+---
+> "ID410772",40843285,"Establishment closed.",0,0,1
+47301c47301
+< "ID410901",50041166,"Establishment closed.",0,0,1
+---
+> "ID410901",50041166,"Violations recorded after the inspection.",0,1,0
+47487c47487
+< "ID411087",50002803,"Establishment closed.",0,0,1
+---
+> "ID411087",50002803,"Violations recorded after the inspection.",0,1,0
+47535c47535
+< "ID411135",40887949,"Establishment closed.",0,0,1
+---
+> "ID411135",40887949,"Violations recorded after the inspection.",0,1,0
+47553c47553
+< "ID411153",41693949,"Establishment closed.",0,0,1
+---
+> "ID411153",41693949,"Violations recorded after the inspection.",0,1,0
+47642c47642
+< "ID411242",41386840,"Establishment closed.",0,0,1
+---
+> "ID411242",41386840,"Violations recorded after the inspection.",0,1,0
+47647c47647
+< "ID411247",50001362,"Violations recorded after the inspection.",0,1,0
+---
+> "ID411247",50001362,"Establishment closed.",0,0,1
+47701c47701
+< "ID411301",41697900,"Violations recorded after the inspection.",0,1,0
+---
+> "ID411301",41697900,"Establishment closed.",0,0,1
+47741c47741
+< "ID411341",50011938,"Establishment closed.",0,0,1
+---
+> "ID411341",50011938,"Violations recorded after the inspection.",0,1,0
+47860c47860
+< "ID411460",41722495,"Establishment closed.",0,0,1
+---
+> "ID411460",41722495,"Violations recorded after the inspection.",0,1,0
+47905c47905
+< "ID411505",40381420,"Establishment closed.",0,0,1
+---
+> "ID411505",40381420,"Violations recorded after the inspection.",0,1,0
+48184c48184
+< "ID411784",41134612,"Establishment closed.",0,0,1
+---
+> "ID411784",41134612,"Violations recorded after the inspection.",0,1,0
+48397c48397
+< "ID411997",40513662,"Establishment closed.",0,0,1
+---
+> "ID411997",40513662,"Violations recorded after the inspection.",0,1,0
+48497c48497
+< "ID412097",41122892,"Violations recorded after the inspection.",0,1,0
+---
+> "ID412097",41122892,"Establishment closed.",0,0,1
+48551c48551
+< "ID412151",41721563,"No violations recorded after the inspection.",1,0,0
+---
+> "ID412151",41721563,"Establishment closed.",0,0,1
+48589c48589
+< "ID412189",41430522,"Violations recorded after the inspection.",0,1,0
+---
+> "ID412189",41430522,"Establishment closed.",0,0,1
+48616c48616
+< "ID412216",40568964,"Establishment closed.",0,0,1
+---
+> "ID412216",40568964,"Violations recorded after the inspection.",0,1,0
+48670c48670
+< "ID412270",50001020,"Establishment closed.",0,0,1
+---
+> "ID412270",50001020,"Violations recorded after the inspection.",0,1,0
+48725c48725
+< "ID412325",40545820,"Establishment closed.",0,0,1
+---
+> "ID412325",40545820,"Violations recorded after the inspection.",0,1,0
+48737c48737
+< "ID412337",41241252,"Establishment closed.",0,0,1
+---
+> "ID412337",41241252,"Violations recorded after the inspection.",0,1,0
+48796c48796
+< "ID412396",41175262,"Establishment closed.",0,0,1
+---
+> "ID412396",41175262,"Violations recorded after the inspection.",0,1,0
+48814c48814
+< "ID412414",40943615,"Establishment closed.",0,0,1
+---
+> "ID412414",40943615,"Violations recorded after the inspection.",0,1,0
+49049c49049
+< "ID412649",41255152,"Establishment closed.",0,0,1
+---
+> "ID412649",41255152,"Violations recorded after the inspection.",0,1,0
+49110c49110
+< "ID412710",41544700,"Establishment closed.",0,0,1
+---
+> "ID412710",41544700,"Violations recorded after the inspection.",0,1,0
+49254c49254
+< "ID412854",50045602,"Violations recorded after the inspection.",0,1,0
+---
+> "ID412854",50045602,"Establishment closed.",0,0,1
+49566c49566
+< "ID413166",41430522,"Violations recorded after the inspection.",0,1,0
+---
+> "ID413166",41430522,"Establishment closed.",0,0,1
+49584c49584
+< "ID413184",40841152,"Establishment closed.",0,0,1
+---
+> "ID413184",40841152,"Violations recorded after the inspection.",0,1,0
+49657c49657
+< "ID413257",50040516,"Establishment closed.",0,0,1
+---
+> "ID413257",50040516,"Violations recorded after the inspection.",0,1,0
+49798c49798
+< "ID413398",41466937,"Establishment closed.",0,0,1
+---
+> "ID413398",41466937,"Violations recorded after the inspection.",0,1,0
+49851,49852c49851,49852
+< "ID413451",40399329,"Violations recorded after the inspection.",0,1,0
+< "ID413452",50045602,"Violations recorded after the inspection.",0,1,0
+---
+> "ID413451",40399329,"Establishment closed.",0,0,1
+> "ID413452",50045602,"Establishment closed.",0,0,1
+49976c49976
+< "ID413576",40813992,"Establishment closed.",0,0,1
+---
+> "ID413576",40813992,"Violations recorded after the inspection.",0,1,0
+50051c50051
+< "ID413651",50013031,"Establishment closed.",0,0,1
+---
+> "ID413651",50013031,"Violations recorded after the inspection.",0,1,0
+50163c50163
+< "ID413763",41459659,"No violations recorded after the inspection.",1,0,0
+---
+> "ID413763",41459659,"Establishment closed.",0,0,1
+50197c50197
+< "ID413797",41588805,"Establishment closed.",0,0,1
+---
+> "ID413797",41588805,"Violations recorded after the inspection.",0,1,0
+50339c50339
+< "ID413939",41504787,"Violations recorded after the inspection.",0,1,0
+---
+> "ID413939",41504787,"Establishment closed.",0,0,1
+50412c50412
+< "ID414012",41349574,"Establishment closed.",0,0,1
+---
+> "ID414012",41349574,"Violations recorded after the inspection.",0,1,0
+50430c50430
+< "ID414030",41378862,"Establishment closed.",0,0,1
+---
+> "ID414030",41378862,"Violations recorded after the inspection.",0,1,0
+50540c50540
+< "ID414140",50003434,"Establishment closed.",0,0,1
+---
+> "ID414140",50003434,"No violations recorded after the inspection.",1,0,0
+50576,50577c50576,50577
+< "ID414176",50038347,"Establishment closed.",0,0,1
+< "ID414177",41460563,"Establishment closed.",0,0,1
+---
+> "ID414176",50038347,"Violations recorded after the inspection.",0,1,0
+> "ID414177",41460563,"Violations recorded after the inspection.",0,1,0
+50606c50606
+< "ID414206",50010708,"Violations recorded after the inspection.",0,1,0
+---
+> "ID414206",50010708,"Establishment closed.",0,0,1
+50701c50701
+< "ID414301",41530741,"Establishment closed.",0,0,1
+---
+> "ID414301",41530741,"Violations recorded after the inspection.",0,1,0
+50783c50783
+< "ID414383",50014389,"Establishment closed.",0,0,1
+---
+> "ID414383",50014389,"Violations recorded after the inspection.",0,1,0
+50829c50829
+< "ID414429",40535509,"Establishment closed.",0,0,1
+---
+> "ID414429",40535509,"Violations recorded after the inspection.",0,1,0
+50845c50845
+< "ID414445",41625337,"Establishment closed.",0,0,1
+---
+> "ID414445",41625337,"Violations recorded after the inspection.",0,1,0
+51045c51045
+< "ID414645",41394237,"Violations recorded after the inspection.",0,1,0
+---
+> "ID414645",41394237,"Establishment closed.",0,0,1
+51158c51158
+< "ID414758",41294953,"Violations recorded after the inspection.",0,1,0
+---
+> "ID414758",41294953,"Establishment closed.",0,0,1
+51224c51224
+< "ID414824",50008279,"Establishment closed.",0,0,1
+---
+> "ID414824",50008279,"Violations recorded after the inspection.",0,1,0
+51384c51384
+< "ID414984",41319055,"Establishment closed.",0,0,1
+---
+> "ID414984",41319055,"Violations recorded after the inspection.",0,1,0
+51399c51399
+< "ID414999",50048053,"Establishment closed.",0,0,1
+---
+> "ID414999",50048053,"Violations recorded after the inspection.",0,1,0
+51415c51415
+< "ID415015",41712797,"Establishment closed.",0,0,1
+---
+> "ID415015",41712797,"Violations recorded after the inspection.",0,1,0
+51444c51444
+< "ID415044",41217194,"Establishment closed.",0,0,1
+---
+> "ID415044",41217194,"No violations recorded after the inspection.",1,0,0
+51657c51657
+< "ID415257",50000883,"Establishment closed.",0,0,1
+---
+> "ID415257",50000883,"Violations recorded after the inspection.",0,1,0
+51664c51664
+< "ID415264",40618714,"Establishment closed.",0,0,1
+---
+> "ID415264",40618714,"Violations recorded after the inspection.",0,1,0
+51673c51673
+< "ID415273",41617766,"Establishment closed.",0,0,1
+---
+> "ID415273",41617766,"Violations recorded after the inspection.",0,1,0
+51696c51696
+< "ID415296",50015663,"Establishment closed.",0,0,1
+---
+> "ID415296",50015663,"Violations recorded after the inspection.",0,1,0
+51708c51708
+< "ID415308",50009843,"Establishment closed.",0,0,1
+---
+> "ID415308",50009843,"Violations recorded after the inspection.",0,1,0
+51769c51769
+< "ID415369",50012273,"Violations recorded after the inspection.",0,1,0
+---
+> "ID415369",50012273,"Establishment closed.",0,0,1
+51775c51775
+< "ID415375",41430522,"Violations recorded after the inspection.",0,1,0
+---
+> "ID415375",41430522,"Establishment closed.",0,0,1
+51857c51857
+< "ID415457",41652417,"Establishment closed.",0,0,1
+---
+> "ID415457",41652417,"Violations recorded after the inspection.",0,1,0
+51901c51901
+< "ID415501",41180510,"Establishment closed.",0,0,1
+---
+> "ID415501",41180510,"Violations recorded after the inspection.",0,1,0
+51934c51934
+< "ID415534",41591603,"Establishment closed.",0,0,1
+---
+> "ID415534",41591603,"Violations recorded after the inspection.",0,1,0
+51979c51979
+< "ID415579",50006377,"Establishment closed.",0,0,1
+---
+> "ID415579",50006377,"Violations recorded after the inspection.",0,1,0
+52050c52050
+< "ID415650",50000040,"Establishment closed.",0,0,1
+---
+> "ID415650",50000040,"Violations recorded after the inspection.",0,1,0
+52081c52081
+< "ID415681",41400593,"No violations recorded after the inspection.",1,0,0
+---
+> "ID415681",41400593,"Violations recorded after the inspection.",0,1,0
+52243c52243
+< "ID415843",50042996,"Establishment closed.",0,0,1
+---
+> "ID415843",50042996,"Violations recorded after the inspection.",0,1,0
+52299c52299
+< "ID415899",50009758,"Violations recorded after the inspection.",0,1,0
+---
+> "ID415899",50009758,"Establishment closed.",0,0,1
+52335c52335
+< "ID415935",41593479,"Establishment closed.",0,0,1
+---
+> "ID415935",41593479,"Violations recorded after the inspection.",0,1,0
+52445c52445
+< "ID416045",50042893,"Establishment closed.",0,0,1
+---
+> "ID416045",50042893,"Violations recorded after the inspection.",0,1,0
+52522c52522
+< "ID416122",41203533,"Establishment closed.",0,0,1
+---
+> "ID416122",41203533,"Violations recorded after the inspection.",0,1,0
+52570c52570
+< "ID416170",50007450,"Violations recorded after the inspection.",0,1,0
+---
+> "ID416170",50007450,"Establishment closed.",0,0,1
+52588c52588
+< "ID416188",40949905,"Violations recorded after the inspection.",0,1,0
+---
+> "ID416188",40949905,"Establishment closed.",0,0,1
+52659c52659
+< "ID416259",40610139,"Violations recorded after the inspection.",0,1,0
+---
+> "ID416259",40610139,"Establishment closed.",0,0,1
+52728c52728
+< "ID416328",41523349,"Establishment closed.",0,0,1
+---
+> "ID416328",41523349,"Violations recorded after the inspection.",0,1,0
+52803c52803
+< "ID416403",41558716,"Establishment closed.",0,0,1
+---
+> "ID416403",41558716,"Violations recorded after the inspection.",0,1,0
+52831c52831
+< "ID416431",40424955,"Establishment closed.",0,0,1
+---
+> "ID416431",40424955,"Violations recorded after the inspection.",0,1,0
+52966c52966
+< "ID416566",50018556,"Establishment closed.",0,0,1
+---
+> "ID416566",50018556,"Violations recorded after the inspection.",0,1,0
+53166c53166
+< "ID416766",50000923,"Establishment closed.",0,0,1
+---
+> "ID416766",50000923,"Violations recorded after the inspection.",0,1,0
+53240c53240
+< "ID416840",41497301,"Establishment closed.",0,0,1
+---
+> "ID416840",41497301,"Violations recorded after the inspection.",0,1,0
+53272c53272
+< "ID416872",41163308,"Violations recorded after the inspection.",0,1,0
+---
+> "ID416872",41163308,"Establishment closed.",0,0,1
+53411c53411
+< "ID417011",40367860,"Establishment closed.",0,0,1
+---
+> "ID417011",40367860,"Violations recorded after the inspection.",0,1,0
+53447c53447
+< "ID417047",41382650,"Establishment closed.",0,0,1
+---
+> "ID417047",41382650,"Violations recorded after the inspection.",0,1,0
+53461c53461
+< "ID417061",50002012,"Violations recorded after the inspection.",0,1,0
+---
+> "ID417061",50002012,"Establishment closed.",0,0,1
+53498c53498
+< "ID417098",50002990,"Establishment closed.",0,0,1
+---
+> "ID417098",50002990,"Violations recorded after the inspection.",0,1,0
+53556c53556
+< "ID417156",41411052,"Establishment closed.",0,0,1
+---
+> "ID417156",41411052,"Violations recorded after the inspection.",0,1,0
+53632,53633c53632,53633
+< "ID417232",41574968,"Violations recorded after the inspection.",0,1,0
+< "ID417233",50001557,"Establishment closed.",0,0,1
+---
+> "ID417232",41574968,"Establishment closed.",0,0,1
+> "ID417233",50001557,"Violations recorded after the inspection.",0,1,0
+53722c53722
+< "ID417322",41070857,"No violations recorded after the inspection.",1,0,0
+---
+> "ID417322",41070857,"Violations recorded after the inspection.",0,1,0
+53768c53768
+< "ID417368",40866297,"Violations recorded after the inspection.",0,1,0
+---
+> "ID417368",40866297,"Establishment closed.",0,0,1
+53787c53787
+< "ID417387",41583686,"No violations recorded after the inspection.",1,0,0
+---
+> "ID417387",41583686,"Establishment closed.",0,0,1
+53967c53967
+< "ID417567",41576328,"Establishment closed.",0,0,1
+---
+> "ID417567",41576328,"Violations recorded after the inspection.",0,1,0
+54097c54097
+< "ID417697",50003178,"Establishment closed.",0,0,1
+---
+> "ID417697",50003178,"Violations recorded after the inspection.",0,1,0
+54188c54188
+< "ID417788",41009678,"Establishment closed.",0,0,1
+---
+> "ID417788",41009678,"Violations recorded after the inspection.",0,1,0
+54199c54199
+< "ID417799",50015665,"Establishment closed.",0,0,1
+---
+> "ID417799",50015665,"Violations recorded after the inspection.",0,1,0
+54262c54262
+< "ID417862",41488494,"Establishment closed.",0,0,1
+---
+> "ID417862",41488494,"Violations recorded after the inspection.",0,1,0
+54337c54337
+< "ID417937",50001203,"Violations recorded after the inspection.",0,1,0
+---
+> "ID417937",50001203,"Establishment closed.",0,0,1
+54354,54355c54354,54355
+< "ID417954",41263597,"Establishment closed.",0,0,1
+< "ID417955",41517559,"Violations recorded after the inspection.",0,1,0
+---
+> "ID417954",41263597,"Violations recorded after the inspection.",0,1,0
+> "ID417955",41517559,"Establishment closed.",0,0,1
+54392c54392
+< "ID417992",41197758,"Establishment closed.",0,0,1
+---
+> "ID417992",41197758,"No violations recorded after the inspection.",1,0,0
+54478c54478
+< "ID418078",41479400,"Establishment closed.",0,0,1
+---
+> "ID418078",41479400,"Violations recorded after the inspection.",0,1,0
+54505c54505
+< "ID418105",41720706,"Establishment closed.",0,0,1
+---
+> "ID418105",41720706,"Violations recorded after the inspection.",0,1,0
+54557c54557
+< "ID418157",50042893,"Establishment closed.",0,0,1
+---
+> "ID418157",50042893,"Violations recorded after the inspection.",0,1,0
+54598c54598
+< "ID418198",50002897,"Establishment closed.",0,0,1
+---
+> "ID418198",50002897,"Violations recorded after the inspection.",0,1,0
+54639c54639
+< "ID418239",40397180,"Establishment closed.",0,0,1
+---
+> "ID418239",40397180,"Violations recorded after the inspection.",0,1,0
+54679c54679
+< "ID418279",40395858,"Violations recorded after the inspection.",0,1,0
+---
+> "ID418279",40395858,"Establishment closed.",0,0,1
+54712c54712
+< "ID418312",41433093,"Establishment closed.",0,0,1
+---
+> "ID418312",41433093,"Violations recorded after the inspection.",0,1,0
+54799c54799
+< "ID418399",41505982,"Establishment closed.",0,0,1
+---
+> "ID418399",41505982,"Violations recorded after the inspection.",0,1,0
+54808c54808
+< "ID418408",41410556,"Establishment closed.",0,0,1
+---
+> "ID418408",41410556,"Violations recorded after the inspection.",0,1,0
+54812c54812
+< "ID418412",40945190,"Establishment closed.",0,0,1
+---
+> "ID418412",40945190,"Violations recorded after the inspection.",0,1,0
+54879c54879
+< "ID418479",41382954,"Establishment closed.",0,0,1
+---
+> "ID418479",41382954,"Violations recorded after the inspection.",0,1,0
+54966c54966
+< "ID418566",41686353,"Establishment closed.",0,0,1
+---
+> "ID418566",41686353,"Violations recorded after the inspection.",0,1,0
+55043c55043
+< "ID418643",41289885,"Establishment closed.",0,0,1
+---
+> "ID418643",41289885,"Violations recorded after the inspection.",0,1,0
+55046c55046
+< "ID418646",41459139,"Establishment closed.",0,0,1
+---
+> "ID418646",41459139,"Violations recorded after the inspection.",0,1,0
+55137c55137
+< "ID418737",41641855,"Establishment closed.",0,0,1
+---
+> "ID418737",41641855,"Violations recorded after the inspection.",0,1,0
+55287c55287
+< "ID418887",40980449,"Violations recorded after the inspection.",0,1,0
+---
+> "ID418887",40980449,"Establishment closed.",0,0,1
+55318c55318
+< "ID418918",41400695,"Establishment closed.",0,0,1
+---
+> "ID418918",41400695,"Violations recorded after the inspection.",0,1,0
+55368c55368
+< "ID418968",41486640,"Establishment closed.",0,0,1
+---
+> "ID418968",41486640,"Violations recorded after the inspection.",0,1,0
+55594c55594
+< "ID419194",50004270,"Establishment closed.",0,0,1
+---
+> "ID419194",50004270,"Violations recorded after the inspection.",0,1,0
+55643c55643
+< "ID419243",41466937,"Establishment closed.",0,0,1
+---
+> "ID419243",41466937,"Violations recorded after the inspection.",0,1,0
+55672c55672
+< "ID419272",50014114,"Violations recorded after the inspection.",0,1,0
+---
+> "ID419272",50014114,"Establishment closed.",0,0,1
+55719c55719
+< "ID419319",41297769,"Establishment closed.",0,0,1
+---
+> "ID419319",41297769,"No violations recorded after the inspection.",1,0,0
+55740c55740
+< "ID419340",50001789,"Establishment closed.",0,0,1
+---
+> "ID419340",50001789,"No violations recorded after the inspection.",1,0,0
+55781c55781
+< "ID419381",41646549,"Establishment closed.",0,0,1
+---
+> "ID419381",41646549,"Violations recorded after the inspection.",0,1,0
+55819c55819
+< "ID419419",41714016,"Establishment closed.",0,0,1
+---
+> "ID419419",41714016,"Violations recorded after the inspection.",0,1,0
+55847c55847
+< "ID419447",50005685,"Establishment closed.",0,0,1
+---
+> "ID419447",50005685,"Violations recorded after the inspection.",0,1,0
+55882c55882
+< "ID419482",41608854,"Violations recorded after the inspection.",0,1,0
+---
+> "ID419482",41608854,"Establishment closed.",0,0,1
+55995c55995
+< "ID419595",40390696,"Violations recorded after the inspection.",0,1,0
+---
+> "ID419595",40390696,"Establishment closed.",0,0,1
+56205c56205
+< "ID419805",41544700,"Establishment closed.",0,0,1
+---
+> "ID419805",41544700,"Violations recorded after the inspection.",0,1,0
+56342c56342
+< "ID419942",41641198,"Violations recorded after the inspection.",0,1,0
+---
+> "ID419942",41641198,"Establishment closed.",0,0,1
+56366c56366
+< "ID419966",40366497,"Establishment closed.",0,0,1
+---
+> "ID419966",40366497,"Violations recorded after the inspection.",0,1,0
+56419c56419
+< "ID420019",40381420,"Establishment closed.",0,0,1
+---
+> "ID420019",40381420,"Violations recorded after the inspection.",0,1,0
+56449c56449
+< "ID420049",50011285,"Establishment closed.",0,0,1
+---
+> "ID420049",50011285,"Violations recorded after the inspection.",0,1,0
+56453c56453
+< "ID420053",41299757,"Establishment closed.",0,0,1
+---
+> "ID420053",41299757,"Violations recorded after the inspection.",0,1,0
+56641c56641
+< "ID420241",41722495,"Establishment closed.",0,0,1
+---
+> "ID420241",41722495,"Violations recorded after the inspection.",0,1,0
+56650c56650
+< "ID420250",50033431,"Establishment closed.",0,0,1
+---
+> "ID420250",50033431,"Violations recorded after the inspection.",0,1,0
+56768c56768
+< "ID420368",40944839,"Establishment closed.",0,0,1
+---
+> "ID420368",40944839,"Violations recorded after the inspection.",0,1,0
+56848c56848
+< "ID420448",41187602,"Violations recorded after the inspection.",0,1,0
+---
+> "ID420448",41187602,"Establishment closed.",0,0,1
+56891c56891
+< "ID420491",50002626,"Establishment closed.",0,0,1
+---
+> "ID420491",50002626,"Violations recorded after the inspection.",0,1,0
+56922c56922
+< "ID420522",41459443,"Establishment closed.",0,0,1
+---
+> "ID420522",41459443,"Violations recorded after the inspection.",0,1,0
+57103c57103
+< "ID420703",41547298,"Establishment closed.",0,0,1
+---
+> "ID420703",41547298,"Violations recorded after the inspection.",0,1,0
+57192c57192
+< "ID420792",50033235,"Establishment closed.",0,0,1
+---
+> "ID420792",50033235,"Violations recorded after the inspection.",0,1,0
+57304c57304
+< "ID420904",41147597,"Establishment closed.",0,0,1
+---
+> "ID420904",41147597,"Violations recorded after the inspection.",0,1,0
+57463,57464c57463,57464
+< "ID421063",41664920,"Establishment closed.",0,0,1
+< "ID421064",40741534,"Establishment closed.",0,0,1
+---
+> "ID421063",41664920,"Violations recorded after the inspection.",0,1,0
+> "ID421064",40741534,"Violations recorded after the inspection.",0,1,0
+57503c57503
+< "ID421103",41475257,"No violations recorded after the inspection.",1,0,0
+---
+> "ID421103",41475257,"Establishment closed.",0,0,1
+57793c57793
+< "ID421393",41647571,"Violations recorded after the inspection.",0,1,0
+---
+> "ID421393",41647571,"Establishment closed.",0,0,1
+57882c57882
+< "ID421482",41625045,"Establishment closed.",0,0,1
+---
+> "ID421482",41625045,"Violations recorded after the inspection.",0,1,0
+57908c57908
+< "ID421508",50018622,"Establishment closed.",0,0,1
+---
+> "ID421508",50018622,"Violations recorded after the inspection.",0,1,0
+57914c57914
+< "ID421514",41489230,"Establishment closed.",0,0,1
+---
+> "ID421514",41489230,"Violations recorded after the inspection.",0,1,0
+57927c57927
+< "ID421527",41451560,"Violations recorded after the inspection.",0,1,0
+---
+> "ID421527",41451560,"Establishment closed.",0,0,1
+58009c58009
+< "ID421609",41708320,"Establishment closed.",0,0,1
+---
+> "ID421609",41708320,"Violations recorded after the inspection.",0,1,0
+58126c58126
+< "ID421726",41598963,"Establishment closed.",0,0,1
+---
+> "ID421726",41598963,"Violations recorded after the inspection.",0,1,0
+58418c58418
+< "ID422018",40387825,"Establishment closed.",0,0,1
+---
+> "ID422018",40387825,"Violations recorded after the inspection.",0,1,0
+58497c58497
+< "ID422097",41399360,"No violations recorded after the inspection.",1,0,0
+---
+> "ID422097",41399360,"Establishment closed.",0,0,1
+58522c58522
+< "ID422122",41406564,"Establishment closed.",0,0,1
+---
+> "ID422122",41406564,"Violations recorded after the inspection.",0,1,0
+58533c58533
+< "ID422133",50012650,"Establishment closed.",0,0,1
+---
+> "ID422133",50012650,"Violations recorded after the inspection.",0,1,0
+58748c58748
+< "ID422348",41631155,"Establishment closed.",0,0,1
+---
+> "ID422348",41631155,"Violations recorded after the inspection.",0,1,0
+58755c58755
+< "ID422355",41664920,"Establishment closed.",0,0,1
+---
+> "ID422355",41664920,"Violations recorded after the inspection.",0,1,0
+58898c58898
+< "ID422498",50000040,"Establishment closed.",0,0,1
+---
+> "ID422498",50000040,"Violations recorded after the inspection.",0,1,0
+58958c58958
+< "ID422558",41399360,"Violations recorded after the inspection.",0,1,0
+---
+> "ID422558",41399360,"Establishment closed.",0,0,1
+59014c59014
+< "ID422614",41115406,"Establishment closed.",0,0,1
+---
+> "ID422614",41115406,"Violations recorded after the inspection.",0,1,0
+59146c59146
+< "ID422746",41528853,"Violations recorded after the inspection.",0,1,0
+---
+> "ID422746",41528853,"Establishment closed.",0,0,1
+59309c59309
+< "ID422909",41420291,"Establishment closed.",0,0,1
+---
+> "ID422909",41420291,"Violations recorded after the inspection.",0,1,0
+59488c59488
+< "ID423088",41448381,"Establishment closed.",0,0,1
+---
+> "ID423088",41448381,"Violations recorded after the inspection.",0,1,0
+59560c59560
+< "ID423160",41031273,"Establishment closed.",0,0,1
+---
+> "ID423160",41031273,"Violations recorded after the inspection.",0,1,0
+59566c59566
+< "ID423166",41281381,"Establishment closed.",0,0,1
+---
+> "ID423166",41281381,"Violations recorded after the inspection.",0,1,0
+59619c59619
+< "ID423219",50011938,"Establishment closed.",0,0,1
+---
+> "ID423219",50011938,"Violations recorded after the inspection.",0,1,0
+59623c59623
+< "ID423223",41187602,"Violations recorded after the inspection.",0,1,0
+---
+> "ID423223",41187602,"Establishment closed.",0,0,1
+59656c59656
+< "ID423256",40365472,"Establishment closed.",0,0,1
+---
+> "ID423256",40365472,"Violations recorded after the inspection.",0,1,0
+59770c59770
+< "ID423370",40381420,"Establishment closed.",0,0,1
+---
+> "ID423370",40381420,"Violations recorded after the inspection.",0,1,0
+59850c59850
+< "ID423450",41668303,"Establishment closed.",0,0,1
+---
+> "ID423450",41668303,"Violations recorded after the inspection.",0,1,0
+60025c60025
+< "ID423625",40888264,"Establishment closed.",0,0,1
+---
+> "ID423625",40888264,"Violations recorded after the inspection.",0,1,0
+60087c60087
+< "ID423687",41416164,"Violations recorded after the inspection.",0,1,0
+---
+> "ID423687",41416164,"Establishment closed.",0,0,1
+60130c60130
+< "ID423730",41412582,"Violations recorded after the inspection.",0,1,0
+---
+> "ID423730",41412582,"Establishment closed.",0,0,1
+60147c60147
+< "ID423747",50036930,"Establishment closed.",0,0,1
+---
+> "ID423747",50036930,"Violations recorded after the inspection.",0,1,0
+60165c60165
+< "ID423765",41665912,"Violations recorded after the inspection.",0,1,0
+---
+> "ID423765",41665912,"Establishment closed.",0,0,1
+60593c60593
+< "ID424193",41720706,"Establishment closed.",0,0,1
+---
+> "ID424193",41720706,"Violations recorded after the inspection.",0,1,0
+60625c60625
+< "ID424225",41549301,"Establishment closed.",0,0,1
+---
+> "ID424225",41549301,"Violations recorded after the inspection.",0,1,0
+60709c60709
+< "ID424309",41530741,"Establishment closed.",0,0,1
+---
+> "ID424309",41530741,"Violations recorded after the inspection.",0,1,0
+60809c60809
+< "ID424409",41019480,"Violations recorded after the inspection.",0,1,0
+---
+> "ID424409",41019480,"Establishment closed.",0,0,1
+60878c60878
+< "ID424478",41406820,"Violations recorded after the inspection.",0,1,0
+---
+> "ID424478",41406820,"Establishment closed.",0,0,1
+60885c60885
+< "ID424485",41122892,"Violations recorded after the inspection.",0,1,0
+---
+> "ID424485",41122892,"Establishment closed.",0,0,1
+60911c60911
+< "ID424511",50008372,"No violations recorded after the inspection.",1,0,0
+---
+> "ID424511",50008372,"Violations recorded after the inspection.",0,1,0
+60980c60980
+< "ID424580",50032836,"Violations recorded after the inspection.",0,1,0
+---
+> "ID424580",50032836,"Establishment closed.",0,0,1
+61232c61232
+< "ID424832",50011938,"Establishment closed.",0,0,1
+---
+> "ID424832",50011938,"Violations recorded after the inspection.",0,1,0
+61303c61303
+< "ID424903",50002383,"Establishment closed.",0,0,1
+---
+> "ID424903",50002383,"Violations recorded after the inspection.",0,1,0
+61310c61310
+< "ID424910",50004501,"Establishment closed.",0,0,1
+---
+> "ID424910",50004501,"Violations recorded after the inspection.",0,1,0
+61374c61374
+< "ID424974",50015663,"Establishment closed.",0,0,1
+---
+> "ID424974",50015663,"Violations recorded after the inspection.",0,1,0
+61406c61406
+< "ID425006",41664920,"Establishment closed.",0,0,1
+---
+> "ID425006",41664920,"Violations recorded after the inspection.",0,1,0
+61435c61435
+< "ID425035",40755172,"Establishment closed.",0,0,1
+---
+> "ID425035",40755172,"Violations recorded after the inspection.",0,1,0
+61496c61496
+< "ID425096",41468766,"Establishment closed.",0,0,1
+---
+> "ID425096",41468766,"Violations recorded after the inspection.",0,1,0
+61508c61508
+< "ID425108",40601696,"Establishment closed.",0,0,1
+---
+> "ID425108",40601696,"Violations recorded after the inspection.",0,1,0
+61545c61545
+< "ID425145",41466984,"Violations recorded after the inspection.",0,1,0
+---
+> "ID425145",41466984,"Establishment closed.",0,0,1
+61689c61689
+< "ID425289",50009758,"Violations recorded after the inspection.",0,1,0
+---
+> "ID425289",50009758,"Establishment closed.",0,0,1
+61699c61699
+< "ID425299",41694992,"Establishment closed.",0,0,1
+---
+> "ID425299",41694992,"Violations recorded after the inspection.",0,1,0
+61826c61826
+< "ID425426",41686353,"Establishment closed.",0,0,1
+---
+> "ID425426",41686353,"Violations recorded after the inspection.",0,1,0
+61845c61845
+< "ID425445",50000055,"Establishment closed.",0,0,1
+---
+> "ID425445",50000055,"Violations recorded after the inspection.",0,1,0
+61874c61874
+< "ID425474",40604769,"Establishment closed.",0,0,1
+---
+> "ID425474",40604769,"No violations recorded after the inspection.",1,0,0
+61911c61911
+< "ID425511",50003434,"Establishment closed.",0,0,1
+---
+> "ID425511",50003434,"No violations recorded after the inspection.",1,0,0
+61926c61926
+< "ID425526",41635173,"Establishment closed.",0,0,1
+---
+> "ID425526",41635173,"Violations recorded after the inspection.",0,1,0
+61928c61928
+< "ID425528",41200686,"Establishment closed.",0,0,1
+---
+> "ID425528",41200686,"Violations recorded after the inspection.",0,1,0
+62077c62077
+< "ID425677",41163308,"Violations recorded after the inspection.",0,1,0
+---
+> "ID425677",41163308,"Establishment closed.",0,0,1
+62132c62132
+< "ID425732",41710775,"Violations recorded after the inspection.",0,1,0
+---
+> "ID425732",41710775,"Establishment closed.",0,0,1
+62197c62197
+< "ID425797",41703625,"Establishment closed.",0,0,1
+---
+> "ID425797",41703625,"Violations recorded after the inspection.",0,1,0
+62277c62277
+< "ID425877",40747940,"Establishment closed.",0,0,1
+---
+> "ID425877",40747940,"Violations recorded after the inspection.",0,1,0
+62280c62280
+< "ID425880",50006599,"Establishment closed.",0,0,1
+---
+> "ID425880",50006599,"No violations recorded after the inspection.",1,0,0
+62431c62431
+< "ID426031",41630826,"Violations recorded after the inspection.",0,1,0
+---
+> "ID426031",41630826,"Establishment closed.",0,0,1
+62766c62766
+< "ID426366",40510969,"Establishment closed.",0,0,1
+---
+> "ID426366",40510969,"Violations recorded after the inspection.",0,1,0
+62971c62971
+< "ID426571",40398642,"Violations recorded after the inspection.",0,1,0
+---
+> "ID426571",40398642,"Establishment closed.",0,0,1
+62997c62997
+< "ID426597",50015221,"Violations recorded after the inspection.",0,1,0
+---
+> "ID426597",50015221,"Establishment closed.",0,0,1
+63041c63041
+< "ID426641",41414700,"Establishment closed.",0,0,1
+---
+> "ID426641",41414700,"Violations recorded after the inspection.",0,1,0
+63120c63120
+< "ID426720",41660757,"Establishment closed.",0,0,1
+---
+> "ID426720",41660757,"Violations recorded after the inspection.",0,1,0
+63265c63265
+< "ID426865",41623638,"Violations recorded after the inspection.",0,1,0
+---
+> "ID426865",41623638,"Establishment closed.",0,0,1
+63574c63574
+< "ID427174",41297769,"No violations recorded after the inspection.",1,0,0
+---
+> "ID427174",41297769,"Establishment closed.",0,0,1
+63728c63728
+< "ID427328",41453648,"Establishment closed.",0,0,1
+---
+> "ID427328",41453648,"Violations recorded after the inspection.",0,1,0
+63818c63818
+< "ID427418",41373303,"No violations recorded after the inspection.",1,0,0
+---
+> "ID427418",41373303,"Violations recorded after the inspection.",0,1,0
+63860c63860
+< "ID427460",41520872,"Establishment closed.",0,0,1
+---
+> "ID427460",41520872,"Violations recorded after the inspection.",0,1,0
+63911c63911
+< "ID427511",50014387,"Violations recorded after the inspection.",0,1,0
+---
+> "ID427511",50014387,"Establishment closed.",0,0,1
+63971c63971
+< "ID427571",41695036,"Establishment closed.",0,0,1
+---
+> "ID427571",41695036,"Violations recorded after the inspection.",0,1,0
+64035c64035
+< "ID427635",50003549,"Violations recorded after the inspection.",0,1,0
+---
+> "ID427635",50003549,"Establishment closed.",0,0,1
+64089c64089
+< "ID427689",41711711,"Violations recorded after the inspection.",0,1,0
+---
+> "ID427689",41711711,"Establishment closed.",0,0,1
+64106c64106
+< "ID427706",41315391,"Establishment closed.",0,0,1
+---
+> "ID427706",41315391,"Violations recorded after the inspection.",0,1,0
+64142c64142
+< "ID427742",41164793,"Establishment closed.",0,0,1
+---
+> "ID427742",41164793,"Violations recorded after the inspection.",0,1,0
+64152c64152
+< "ID427752",41343720,"No violations recorded after the inspection.",1,0,0
+---
+> "ID427752",41343720,"Establishment closed.",0,0,1
+64178c64178
+< "ID427778",50009921,"Violations recorded after the inspection.",0,1,0
+---
+> "ID427778",50009921,"Establishment closed.",0,0,1
+64211c64211
+< "ID427811",50009898,"Establishment closed.",0,0,1
+---
+> "ID427811",50009898,"Violations recorded after the inspection.",0,1,0
+64263c64263
+< "ID427863",41679961,"Violations recorded after the inspection.",0,1,0
+---
+> "ID427863",41679961,"Establishment closed.",0,0,1
+64354c64354
+< "ID427954",50015811,"Violations recorded after the inspection.",0,1,0
+---
+> "ID427954",50015811,"Establishment closed.",0,0,1
+64520c64520
+< "ID428120",41656010,"Establishment closed.",0,0,1
+---
+> "ID428120",41656010,"Violations recorded after the inspection.",0,1,0
+64554c64554
+< "ID428154",50013562,"Establishment closed.",0,0,1
+---
+> "ID428154",50013562,"No violations recorded after the inspection.",1,0,0
+64616c64616
+< "ID428216",50012273,"Violations recorded after the inspection.",0,1,0
+---
+> "ID428216",50012273,"Establishment closed.",0,0,1
+64684c64684
+< "ID428284",41242270,"Violations recorded after the inspection.",0,1,0
+---
+> "ID428284",41242270,"Establishment closed.",0,0,1
+64735c64735
+< "ID428335",41520872,"Establishment closed.",0,0,1
+---
+> "ID428335",41520872,"Violations recorded after the inspection.",0,1,0
+64750c64750
+< "ID428350",41615382,"Establishment closed.",0,0,1
+---
+> "ID428350",41615382,"Violations recorded after the inspection.",0,1,0
+64759c64759
+< "ID428359",41163809,"Establishment closed.",0,0,1
+---
+> "ID428359",41163809,"No violations recorded after the inspection.",1,0,0
+64769c64769
+< "ID428369",50016853,"Violations recorded after the inspection.",0,1,0
+---
+> "ID428369",50016853,"Establishment closed.",0,0,1
+64908c64908
+< "ID428508",41691644,"Establishment closed.",0,0,1
+---
+> "ID428508",41691644,"Violations recorded after the inspection.",0,1,0
+64928c64928
+< "ID428528",41405150,"Establishment closed.",0,0,1
+---
+> "ID428528",41405150,"Violations recorded after the inspection.",0,1,0
+64969c64969
+< "ID428569",40965177,"Establishment closed.",0,0,1
+---
+> "ID428569",40965177,"Violations recorded after the inspection.",0,1,0
+64978c64978
+< "ID428578",50008279,"Establishment closed.",0,0,1
+---
+> "ID428578",50008279,"Violations recorded after the inspection.",0,1,0
+65063c65063
+< "ID428663",41399601,"Establishment closed.",0,0,1
+---
+> "ID428663",41399601,"Violations recorded after the inspection.",0,1,0
+65075c65075
+< "ID428675",50017170,"Violations recorded after the inspection.",0,1,0
+---
+> "ID428675",50017170,"Establishment closed.",0,0,1
+65098c65098
+< "ID428698",50004270,"Establishment closed.",0,0,1
+---
+> "ID428698",50004270,"Violations recorded after the inspection.",0,1,0
+65201c65201
+< "ID428801",50044724,"Establishment closed.",0,0,1
+---
+> "ID428801",50044724,"Violations recorded after the inspection.",0,1,0
+65261c65261
+< "ID428861",50033229,"Establishment closed.",0,0,1
+---
+> "ID428861",50033229,"Violations recorded after the inspection.",0,1,0
+65409c65409
+< "ID429009",41597722,"Establishment closed.",0,0,1
+---
+> "ID429009",41597722,"Violations recorded after the inspection.",0,1,0
+65455c65455
+< "ID429055",41692971,"Establishment closed.",0,0,1
+---
+> "ID429055",41692971,"Violations recorded after the inspection.",0,1,0
+65584c65584
+< "ID429184",41583682,"Establishment closed.",0,0,1
+---
+> "ID429184",41583682,"Violations recorded after the inspection.",0,1,0
+65638c65638
+< "ID429238",50006377,"No violations recorded after the inspection.",1,0,0
+---
+> "ID429238",50006377,"Establishment closed.",0,0,1
+65659c65659
+< "ID429259",40385555,"Establishment closed.",0,0,1
+---
+> "ID429259",40385555,"Violations recorded after the inspection.",0,1,0
+65697c65697
+< "ID429297",50014886,"Establishment closed.",0,0,1
+---
+> "ID429297",50014886,"Violations recorded after the inspection.",0,1,0
+65726c65726
+< "ID429326",50033207,"Violations recorded after the inspection.",0,1,0
+---
+> "ID429326",50033207,"Establishment closed.",0,0,1
+65782c65782
+< "ID429382",41304510,"Violations recorded after the inspection.",0,1,0
+---
+> "ID429382",41304510,"Establishment closed.",0,0,1
+65864c65864
+< "ID429464",41539257,"Establishment closed.",0,0,1
+---
+> "ID429464",41539257,"Violations recorded after the inspection.",0,1,0
+65921,65922c65921,65922
+< "ID429521",41394018,"Establishment closed.",0,0,1
+< "ID429522",41139612,"Violations recorded after the inspection.",0,1,0
+---
+> "ID429521",41394018,"Violations recorded after the inspection.",0,1,0
+> "ID429522",41139612,"Establishment closed.",0,0,1
+66203c66203
+< "ID429803",41190515,"No violations recorded after the inspection.",1,0,0
+---
+> "ID429803",41190515,"Establishment closed.",0,0,1
+66205c66205
+< "ID429805",41642313,"Violations recorded after the inspection.",0,1,0
+---
+> "ID429805",41642313,"Establishment closed.",0,0,1
+66327c66327
+< "ID429927",41426077,"Violations recorded after the inspection.",0,1,0
+---
+> "ID429927",41426077,"Establishment closed.",0,0,1
+66521c66521
+< "ID430121",50006705,"Establishment closed.",0,0,1
+---
+> "ID430121",50006705,"Violations recorded after the inspection.",0,1,0
+66552c66552
+< "ID430152",41690815,"Violations recorded after the inspection.",0,1,0
+---
+> "ID430152",41690815,"Establishment closed.",0,0,1
+66954c66954
+< "ID430554",40588296,"Establishment closed.",0,0,1
+---
+> "ID430554",40588296,"Violations recorded after the inspection.",0,1,0
+66960c66960
+< "ID430560",41479962,"Establishment closed.",0,0,1
+---
+> "ID430560",41479962,"Violations recorded after the inspection.",0,1,0
+67018c67018
+< "ID430618",41504787,"Violations recorded after the inspection.",0,1,0
+---
+> "ID430618",41504787,"Establishment closed.",0,0,1
+67029c67029
+< "ID430629",41683394,"Establishment closed.",0,0,1
+---
+> "ID430629",41683394,"Violations recorded after the inspection.",0,1,0
+67045c67045
+< "ID430645",40884503,"Establishment closed.",0,0,1
+---
+> "ID430645",40884503,"Violations recorded after the inspection.",0,1,0
+67082c67082
+< "ID430682",40399672,"Establishment closed.",0,0,1
+---
+> "ID430682",40399672,"Violations recorded after the inspection.",0,1,0
+67345c67345
+< "ID430945",41418978,"Establishment closed.",0,0,1
+---
+> "ID430945",41418978,"Violations recorded after the inspection.",0,1,0
+67436c67436
+< "ID431036",41641202,"Establishment closed.",0,0,1
+---
+> "ID431036",41641202,"Violations recorded after the inspection.",0,1,0
+67484,67485c67484,67485
+< "ID431084",40399672,"Establishment closed.",0,0,1
+< "ID431085",50016671,"Establishment closed.",0,0,1
+---
+> "ID431084",40399672,"Violations recorded after the inspection.",0,1,0
+> "ID431085",50016671,"Violations recorded after the inspection.",0,1,0
+67664c67664
+< "ID431264",50015221,"Violations recorded after the inspection.",0,1,0
+---
+> "ID431264",50015221,"Establishment closed.",0,0,1
+67684c67684
+< "ID431284",40387825,"Establishment closed.",0,0,1
+---
+> "ID431284",40387825,"Violations recorded after the inspection.",0,1,0
+67741c67741
+< "ID431341",41387108,"Establishment closed.",0,0,1
+---
+> "ID431341",41387108,"Violations recorded after the inspection.",0,1,0
+67814c67814
+< "ID431414",50039356,"Establishment closed.",0,0,1
+---
+> "ID431414",50039356,"Violations recorded after the inspection.",0,1,0
+67848c67848
+< "ID431448",41530741,"Establishment closed.",0,0,1
+---
+> "ID431448",41530741,"Violations recorded after the inspection.",0,1,0
+67905c67905
+< "ID431505",41289484,"Establishment closed.",0,0,1
+---
+> "ID431505",41289484,"Violations recorded after the inspection.",0,1,0
+67959c67959
+< "ID431559",41284245,"Establishment closed.",0,0,1
+---
+> "ID431559",41284245,"Violations recorded after the inspection.",0,1,0
+68021c68021
+< "ID431621",40681411,"Violations recorded after the inspection.",0,1,0
+---
+> "ID431621",40681411,"Establishment closed.",0,0,1
+68052c68052
+< "ID431652",41430594,"No violations recorded after the inspection.",1,0,0
+---
+> "ID431652",41430594,"Violations recorded after the inspection.",0,1,0
+68165c68165
+< "ID431765",41699488,"Establishment closed.",0,0,1
+---
+> "ID431765",41699488,"Violations recorded after the inspection.",0,1,0
+68220c68220
+< "ID431820",41252382,"Establishment closed.",0,0,1
+---
+> "ID431820",41252382,"Violations recorded after the inspection.",0,1,0
+68230c68230
+< "ID431830",41576328,"Establishment closed.",0,0,1
+---
+> "ID431830",41576328,"Violations recorded after the inspection.",0,1,0
+68242c68242
+< "ID431842",41454471,"Establishment closed.",0,0,1
+---
+> "ID431842",41454471,"Violations recorded after the inspection.",0,1,0
+68318c68318
+< "ID431918",41565686,"Establishment closed.",0,0,1
+---
+> "ID431918",41565686,"Violations recorded after the inspection.",0,1,0
+68357c68357
+< "ID431957",41497301,"Establishment closed.",0,0,1
+---
+> "ID431957",41497301,"Violations recorded after the inspection.",0,1,0
+68365c68365
+< "ID431965",41257059,"Establishment closed.",0,0,1
+---
+> "ID431965",41257059,"Violations recorded after the inspection.",0,1,0
+68371c68371
+< "ID431971",41472519,"Establishment closed.",0,0,1
+---
+> "ID431971",41472519,"Violations recorded after the inspection.",0,1,0
+68377c68377
+< "ID431977",40559634,"Establishment closed.",0,0,1
+---
+> "ID431977",40559634,"Violations recorded after the inspection.",0,1,0
+68381c68381
+< "ID431981",41547298,"Establishment closed.",0,0,1
+---
+> "ID431981",41547298,"Violations recorded after the inspection.",0,1,0
+68536c68536
+< "ID432136",41704239,"Establishment closed.",0,0,1
+---
+> "ID432136",41704239,"Violations recorded after the inspection.",0,1,0
+68583c68583
+< "ID432183",40396074,"Establishment closed.",0,0,1
+---
+> "ID432183",40396074,"Violations recorded after the inspection.",0,1,0
+68622c68622
+< "ID432222",50045823,"Establishment closed.",0,0,1
+---
+> "ID432222",50045823,"Violations recorded after the inspection.",0,1,0
+68645c68645
+< "ID432245",40566783,"Establishment closed.",0,0,1
+---
+> "ID432245",40566783,"Violations recorded after the inspection.",0,1,0
+68663c68663
+< "ID432263",41175262,"Establishment closed.",0,0,1
+---
+> "ID432263",41175262,"Violations recorded after the inspection.",0,1,0
+68920c68920
+< "ID432520",41284245,"Establishment closed.",0,0,1
+---
+> "ID432520",41284245,"Violations recorded after the inspection.",0,1,0
+68983c68983
+< "ID432583",41187577,"Establishment closed.",0,0,1
+---
+> "ID432583",41187577,"Violations recorded after the inspection.",0,1,0
+69021c69021
+< "ID432621",40725591,"Violations recorded after the inspection.",0,1,0
+---
+> "ID432621",40725591,"Establishment closed.",0,0,1
+69083c69083
+< "ID432683",50011224,"Establishment closed.",0,0,1
+---
+> "ID432683",50011224,"Violations recorded after the inspection.",0,1,0
+69199c69199
+< "ID432799",41679961,"Establishment closed.",0,0,1
+---
+> "ID432799",41679961,"Violations recorded after the inspection.",0,1,0
+69205c69205
+< "ID432805",50015465,"Establishment closed.",0,0,1
+---
+> "ID432805",50015465,"Violations recorded after the inspection.",0,1,0
+69228c69228
+< "ID432828",41617766,"Establishment closed.",0,0,1
+---
+> "ID432828",41617766,"Violations recorded after the inspection.",0,1,0
+69286c69286
+< "ID432886",41504787,"Violations recorded after the inspection.",0,1,0
+---
+> "ID432886",41504787,"Establishment closed.",0,0,1
+69353c69353
+< "ID432953",50001672,"Violations recorded after the inspection.",0,1,0
+---
+> "ID432953",50001672,"Establishment closed.",0,0,1
+69393c69393
+< "ID432993",50003580,"Violations recorded after the inspection.",0,1,0
+---
+> "ID432993",50003580,"Establishment closed.",0,0,1
+69461c69461
+< "ID433061",50011331,"Establishment closed.",0,0,1
+---
+> "ID433061",50011331,"Violations recorded after the inspection.",0,1,0
+69556c69556
+< "ID433156",40389907,"Establishment closed.",0,0,1
+---
+> "ID433156",40389907,"No violations recorded after the inspection.",1,0,0
+69648c69648
+< "ID433248",41454874,"Establishment closed.",0,0,1
+---
+> "ID433248",41454874,"Violations recorded after the inspection.",0,1,0
+69685c69685
+< "ID433285",50014661,"Establishment closed.",0,0,1
+---
+> "ID433285",50014661,"Violations recorded after the inspection.",0,1,0
+69709c69709
+< "ID433309",41163361,"Establishment closed.",0,0,1
+---
+> "ID433309",41163361,"Violations recorded after the inspection.",0,1,0
+69767c69767
+< "ID433367",40895911,"Establishment closed.",0,0,1
+---
+> "ID433367",40895911,"Violations recorded after the inspection.",0,1,0
+69974c69974
+< "ID433574",41381542,"Violations recorded after the inspection.",0,1,0
+---
+> "ID433574",41381542,"Establishment closed.",0,0,1
+70048c70048
+< "ID433648",41611253,"Establishment closed.",0,0,1
+---
+> "ID433648",41611253,"Violations recorded after the inspection.",0,1,0
+70059c70059
+< "ID433659",41315391,"Establishment closed.",0,0,1
+---
+> "ID433659",41315391,"No violations recorded after the inspection.",1,0,0
+70124c70124
+< "ID433724",50036518,"Establishment closed.",0,0,1
+---
+> "ID433724",50036518,"Violations recorded after the inspection.",0,1,0
+70164c70164
+< "ID433764",50037268,"Establishment closed.",0,0,1
+---
+> "ID433764",50037268,"Violations recorded after the inspection.",0,1,0
+70280c70280
+< "ID433880",41667902,"Establishment closed.",0,0,1
+---
+> "ID433880",41667902,"Violations recorded after the inspection.",0,1,0
+70382c70382
+< "ID433982",41722632,"Establishment closed.",0,0,1
+---
+> "ID433982",41722632,"Violations recorded after the inspection.",0,1,0
+70518c70518
+< "ID434118",50000702,"Establishment closed.",0,0,1
+---
+> "ID434118",50000702,"Violations recorded after the inspection.",0,1,0
+70686c70686
+< "ID434286",41637230,"Violations recorded after the inspection.",0,1,0
+---
+> "ID434286",41637230,"Establishment closed.",0,0,1
+70697c70697
+< "ID434297",40690297,"Establishment closed.",0,0,1
+---
+> "ID434297",40690297,"No violations recorded after the inspection.",1,0,0
+70827c70827
+< "ID434427",41480423,"No violations recorded after the inspection.",1,0,0
+---
+> "ID434427",41480423,"Establishment closed.",0,0,1
+70964c70964
+< "ID434564",41656750,"Violations recorded after the inspection.",0,1,0
+---
+> "ID434564",41656750,"Establishment closed.",0,0,1
+70967c70967
+< "ID434567",41416164,"Violations recorded after the inspection.",0,1,0
+---
+> "ID434567",41416164,"Establishment closed.",0,0,1
+71022c71022
+< "ID434622",40399986,"Establishment closed.",0,0,1
+---
+> "ID434622",40399986,"No violations recorded after the inspection.",1,0,0
+71025c71025
+< "ID434625",41044065,"Violations recorded after the inspection.",0,1,0
+---
+> "ID434625",41044065,"Establishment closed.",0,0,1
+71076c71076
+< "ID434676",41463800,"Establishment closed.",0,0,1
+---
+> "ID434676",41463800,"Violations recorded after the inspection.",0,1,0
+71291c71291
+< "ID434891",41392244,"Establishment closed.",0,0,1
+---
+> "ID434891",41392244,"Violations recorded after the inspection.",0,1,0
+71439c71439
+< "ID435039",50005669,"Establishment closed.",0,0,1
+---
+> "ID435039",50005669,"Violations recorded after the inspection.",0,1,0
+71478c71478
+< "ID435078",40401316,"Establishment closed.",0,0,1
+---
+> "ID435078",40401316,"Violations recorded after the inspection.",0,1,0
+71565c71565
+< "ID435165",41300301,"Establishment closed.",0,0,1
+---
+> "ID435165",41300301,"Violations recorded after the inspection.",0,1,0
+71569c71569
+< "ID435169",50001019,"Violations recorded after the inspection.",0,1,0
+---
+> "ID435169",50001019,"Establishment closed.",0,0,1
+71634c71634
+< "ID435234",50019260,"Violations recorded after the inspection.",0,1,0
+---
+> "ID435234",50019260,"Establishment closed.",0,0,1
+71690c71690
+< "ID435290",50014720,"Establishment closed.",0,0,1
+---
+> "ID435290",50014720,"Violations recorded after the inspection.",0,1,0
+71802c71802
+< "ID435402",41193088,"No violations recorded after the inspection.",1,0,0
+---
+> "ID435402",41193088,"Establishment closed.",0,0,1
+71826c71826
+< "ID435426",41529941,"Establishment closed.",0,0,1
+---
+> "ID435426",41529941,"Violations recorded after the inspection.",0,1,0
+71875c71875
+< "ID435475",41643714,"Establishment closed.",0,0,1
+---
+> "ID435475",41643714,"Violations recorded after the inspection.",0,1,0
+72026c72026
+< "ID435626",41476799,"Establishment closed.",0,0,1
+---
+> "ID435626",41476799,"Violations recorded after the inspection.",0,1,0
+72390c72390
+< "ID435990",50043786,"Establishment closed.",0,0,1
+---
+> "ID435990",50043786,"Violations recorded after the inspection.",0,1,0
+72415c72415
+< "ID436015",41679670,"Establishment closed.",0,0,1
+---
+> "ID436015",41679670,"Violations recorded after the inspection.",0,1,0
+72447c72447
+< "ID436047",41200857,"Establishment closed.",0,0,1
+---
+> "ID436047",41200857,"Violations recorded after the inspection.",0,1,0
+72492c72492
+< "ID436092",41527847,"Violations recorded after the inspection.",0,1,0
+---
+> "ID436092",41527847,"Establishment closed.",0,0,1
+72547c72547
+< "ID436147",50005299,"Establishment closed.",0,0,1
+---
+> "ID436147",50005299,"Violations recorded after the inspection.",0,1,0
+72589c72589
+< "ID436189",40382900,"Establishment closed.",0,0,1
+---
+> "ID436189",40382900,"Violations recorded after the inspection.",0,1,0
+72616c72616
+< "ID436216",41575838,"Violations recorded after the inspection.",0,1,0
+---
+> "ID436216",41575838,"Establishment closed.",0,0,1
+72626c72626
+< "ID436226",50048053,"Establishment closed.",0,0,1
+---
+> "ID436226",50048053,"Violations recorded after the inspection.",0,1,0
+72715c72715
+< "ID436315",50005404,"Violations recorded after the inspection.",0,1,0
+---
+> "ID436315",50005404,"Establishment closed.",0,0,1
+72726c72726
+< "ID436326",41642733,"Establishment closed.",0,0,1
+---
+> "ID436326",41642733,"Violations recorded after the inspection.",0,1,0
+72737c72737
+< "ID436337",41583748,"Establishment closed.",0,0,1
+---
+> "ID436337",41583748,"Violations recorded after the inspection.",0,1,0
+72740c72740
+< "ID436340",41243880,"Establishment closed.",0,0,1
+---
+> "ID436340",41243880,"Violations recorded after the inspection.",0,1,0
+72808c72808
+< "ID436408",50008493,"Establishment closed.",0,0,1
+---
+> "ID436408",50008493,"Violations recorded after the inspection.",0,1,0
+72830c72830
+< "ID436430",41363530,"Establishment closed.",0,0,1
+---
+> "ID436430",41363530,"No violations recorded after the inspection.",1,0,0
+72885c72885
+< "ID436485",41530497,"Establishment closed.",0,0,1
+---
+> "ID436485",41530497,"Violations recorded after the inspection.",0,1,0
+73086c73086
+< "ID436686",50004076,"Establishment closed.",0,0,1
+---
+> "ID436686",50004076,"Violations recorded after the inspection.",0,1,0
+73110c73110
+< "ID436710",50000224,"Violations recorded after the inspection.",0,1,0
+---
+> "ID436710",50000224,"Establishment closed.",0,0,1
+73114c73114
+< "ID436714",40515590,"Establishment closed.",0,0,1
+---
+> "ID436714",40515590,"Violations recorded after the inspection.",0,1,0
+73446c73446
+< "ID437046",41418978,"Establishment closed.",0,0,1
+---
+> "ID437046",41418978,"Violations recorded after the inspection.",0,1,0
+73494c73494
+< "ID437094",41637665,"Establishment closed.",0,0,1
+---
+> "ID437094",41637665,"Violations recorded after the inspection.",0,1,0
+73577c73577
+< "ID437177",41554584,"No violations recorded after the inspection.",1,0,0
+---
+> "ID437177",41554584,"Establishment closed.",0,0,1
+73607c73607
+< "ID437207",40995563,"Establishment closed.",0,0,1
+---
+> "ID437207",40995563,"No violations recorded after the inspection.",1,0,0
+73696c73696
+< "ID437296",41475945,"No violations recorded after the inspection.",1,0,0
+---
+> "ID437296",41475945,"Establishment closed.",0,0,1
+73783c73783
+< "ID437383",50005163,"Establishment closed.",0,0,1
+---
+> "ID437383",50005163,"Violations recorded after the inspection.",0,1,0
+74033c74033
+< "ID437633",41509082,"Establishment closed.",0,0,1
+---
+> "ID437633",41509082,"Violations recorded after the inspection.",0,1,0
+74135c74135
+< "ID437735",41711186,"Establishment closed.",0,0,1
+---
+> "ID437735",41711186,"Violations recorded after the inspection.",0,1,0
+74157c74157
+< "ID437757",41204340,"Violations recorded after the inspection.",0,1,0
+---
+> "ID437757",41204340,"Establishment closed.",0,0,1
+74299c74299
+< "ID437899",41708744,"Establishment closed.",0,0,1
+---
+> "ID437899",41708744,"Violations recorded after the inspection.",0,1,0
+74341c74341
+< "ID437941",50011359,"Establishment closed.",0,0,1
+---
+> "ID437941",50011359,"Violations recorded after the inspection.",0,1,0
+74416c74416
+< "ID438016",41425803,"Establishment closed.",0,0,1
+---
+> "ID438016",41425803,"Violations recorded after the inspection.",0,1,0
+74522c74522
+< "ID438122",50008279,"Establishment closed.",0,0,1
+---
+> "ID438122",50008279,"Violations recorded after the inspection.",0,1,0
+74538c74538
+< "ID438138",50046134,"Establishment closed.",0,0,1
+---
+> "ID438138",50046134,"Violations recorded after the inspection.",0,1,0
+74580c74580
+< "ID438180",50002677,"Establishment closed.",0,0,1
+---
+> "ID438180",50002677,"Violations recorded after the inspection.",0,1,0
+74711c74711
+< "ID438311",41253814,"Violations recorded after the inspection.",0,1,0
+---
+> "ID438311",41253814,"Establishment closed.",0,0,1
+74864c74864
+< "ID438464",50033742,"Establishment closed.",0,0,1
+---
+> "ID438464",50033742,"Violations recorded after the inspection.",0,1,0
+75041c75041
+< "ID438641",40663950,"Violations recorded after the inspection.",0,1,0
+---
+> "ID438641",40663950,"Establishment closed.",0,0,1
+75074c75074
+< "ID438674",50002789,"Establishment closed.",0,0,1
+---
+> "ID438674",50002789,"Violations recorded after the inspection.",0,1,0
+75171c75171
+< "ID438771",50000040,"Establishment closed.",0,0,1
+---
+> "ID438771",50000040,"Violations recorded after the inspection.",0,1,0
+75174c75174
+< "ID438774",41684996,"Establishment closed.",0,0,1
+---
+> "ID438774",41684996,"Violations recorded after the inspection.",0,1,0
+75211c75211
+< "ID438811",41233172,"Establishment closed.",0,0,1
+---
+> "ID438811",41233172,"Violations recorded after the inspection.",0,1,0
+75215c75215
+< "ID438815",40365592,"Violations recorded after the inspection.",0,1,0
+---
+> "ID438815",40365592,"Establishment closed.",0,0,1
+75223c75223
+< "ID438823",41561516,"Violations recorded after the inspection.",0,1,0
+---
+> "ID438823",41561516,"Establishment closed.",0,0,1
+75311c75311
+< "ID438911",41599951,"Establishment closed.",0,0,1
+---
+> "ID438911",41599951,"Violations recorded after the inspection.",0,1,0
+75324c75324
+< "ID438924",41476799,"Establishment closed.",0,0,1
+---
+> "ID438924",41476799,"Violations recorded after the inspection.",0,1,0
+75390c75390
+< "ID438990",41403373,"Violations recorded after the inspection.",0,1,0
+---
+> "ID438990",41403373,"Establishment closed.",0,0,1
+75444c75444
+< "ID439044",40929013,"Violations recorded after the inspection.",0,1,0
+---
+> "ID439044",40929013,"Establishment closed.",0,0,1
+75530c75530
+< "ID439130",41433093,"Establishment closed.",0,0,1
+---
+> "ID439130",41433093,"Violations recorded after the inspection.",0,1,0
+75573c75573
+< "ID439173",40395921,"Violations recorded after the inspection.",0,1,0
+---
+> "ID439173",40395921,"Establishment closed.",0,0,1
+75598c75598
+< "ID439198",50017308,"Establishment closed.",0,0,1
+---
+> "ID439198",50017308,"Violations recorded after the inspection.",0,1,0
+75716c75716
+< "ID439316",41164678,"Violations recorded after the inspection.",0,1,0
+---
+> "ID439316",41164678,"Establishment closed.",0,0,1
+75734c75734
+< "ID439334",41697472,"Establishment closed.",0,0,1
+---
+> "ID439334",41697472,"Violations recorded after the inspection.",0,1,0
+76137c76137
+< "ID439737",41721343,"Establishment closed.",0,0,1
+---
+> "ID439737",41721343,"Violations recorded after the inspection.",0,1,0
+76191c76191
+< "ID439791",41319055,"Establishment closed.",0,0,1
+---
+> "ID439791",41319055,"Violations recorded after the inspection.",0,1,0
+76201c76201
+< "ID439801",50017167,"Establishment closed.",0,0,1
+---
+> "ID439801",50017167,"Violations recorded after the inspection.",0,1,0
+76343c76343
+< "ID439943",40580547,"Violations recorded after the inspection.",0,1,0
+---
+> "ID439943",40580547,"Establishment closed.",0,0,1
+76546c76546
+< "ID440146",50009420,"Establishment closed.",0,0,1
+---
+> "ID440146",50009420,"Violations recorded after the inspection.",0,1,0
+76602c76602
+< "ID440202",41530497,"Establishment closed.",0,0,1
+---
+> "ID440202",41530497,"Violations recorded after the inspection.",0,1,0
+76655c76655
+< "ID440255",41006331,"Establishment closed.",0,0,1
+---
+> "ID440255",41006331,"Violations recorded after the inspection.",0,1,0
+76755c76755
+< "ID440355",41308759,"Violations recorded after the inspection.",0,1,0
+---
+> "ID440355",41308759,"Establishment closed.",0,0,1
+76798c76798
+< "ID440398",41543623,"Establishment closed.",0,0,1
+---
+> "ID440398",41543623,"Violations recorded after the inspection.",0,1,0
+76830c76830
+< "ID440430",41257059,"Establishment closed.",0,0,1
+---
+> "ID440430",41257059,"Violations recorded after the inspection.",0,1,0
+76865c76865
+< "ID440465",40681411,"Violations recorded after the inspection.",0,1,0
+---
+> "ID440465",40681411,"Establishment closed.",0,0,1
+76899c76899
+< "ID440499",50012297,"Establishment closed.",0,0,1
+---
+> "ID440499",50012297,"Violations recorded after the inspection.",0,1,0
+77002c77002
+< "ID440602",50005685,"Establishment closed.",0,0,1
+---
+> "ID440602",50005685,"Violations recorded after the inspection.",0,1,0
+77098c77098
+< "ID440698",41461218,"Establishment closed.",0,0,1
+---
+> "ID440698",41461218,"Violations recorded after the inspection.",0,1,0
+77189c77189
+< "ID440789",41637230,"Violations recorded after the inspection.",0,1,0
+---
+> "ID440789",41637230,"Establishment closed.",0,0,1
+77224c77224
+< "ID440824",40875639,"Establishment closed.",0,0,1
+---
+> "ID440824",40875639,"Violations recorded after the inspection.",0,1,0
+77281c77281
+< "ID440881",41656010,"Establishment closed.",0,0,1
+---
+> "ID440881",41656010,"Violations recorded after the inspection.",0,1,0
+77447c77447
+< "ID441047",50003178,"Establishment closed.",0,0,1
+---
+> "ID441047",50003178,"Violations recorded after the inspection.",0,1,0
+77465c77465
+< "ID441065",41122892,"Violations recorded after the inspection.",0,1,0
+---
+> "ID441065",41122892,"Establishment closed.",0,0,1
+77480c77480
+< "ID441080",50014375,"Establishment closed.",0,0,1
+---
+> "ID441080",50014375,"Violations recorded after the inspection.",0,1,0
+77500c77500
+< "ID441100",40566783,"Establishment closed.",0,0,1
+---
+> "ID441100",40566783,"Violations recorded after the inspection.",0,1,0
+77668c77668
+< "ID441268",50011515,"Establishment closed.",0,0,1
+---
+> "ID441268",50011515,"Violations recorded after the inspection.",0,1,0
+77750c77750
+< "ID441350",50007450,"Violations recorded after the inspection.",0,1,0
+---
+> "ID441350",50007450,"Establishment closed.",0,0,1
+77765c77765
+< "ID441365",41289382,"Violations recorded after the inspection.",0,1,0
+---
+> "ID441365",41289382,"Establishment closed.",0,0,1
+77939c77939
+< "ID441539",41423851,"Violations recorded after the inspection.",0,1,0
+---
+> "ID441539",41423851,"Establishment closed.",0,0,1
+78000c78000
+< "ID441600",50014375,"Establishment closed.",0,0,1
+---
+> "ID441600",50014375,"Violations recorded after the inspection.",0,1,0
+78069c78069
+< "ID441669",41623086,"Violations recorded after the inspection.",0,1,0
+---
+> "ID441669",41623086,"Establishment closed.",0,0,1
+78289c78289
+< "ID441889",41253814,"Violations recorded after the inspection.",0,1,0
+---
+> "ID441889",41253814,"Establishment closed.",0,0,1
+78328c78328
+< "ID441928",41608854,"Violations recorded after the inspection.",0,1,0
+---
+> "ID441928",41608854,"Establishment closed.",0,0,1
+78345c78345
+< "ID441945",41583191,"Establishment closed.",0,0,1
+---
+> "ID441945",41583191,"Violations recorded after the inspection.",0,1,0
+78356c78356
+< "ID441956",41310853,"Establishment closed.",0,0,1
+---
+> "ID441956",41310853,"Violations recorded after the inspection.",0,1,0
+78469c78469
+< "ID442069",50032836,"Violations recorded after the inspection.",0,1,0
+---
+> "ID442069",50032836,"Establishment closed.",0,0,1
+78476c78476
+< "ID442076",50003580,"Violations recorded after the inspection.",0,1,0
+---
+> "ID442076",50003580,"Establishment closed.",0,0,1
+78554c78554
+< "ID442154",41539993,"Establishment closed.",0,0,1
+---
+> "ID442154",41539993,"Violations recorded after the inspection.",0,1,0
+78670c78670
+< "ID442270",40395921,"Violations recorded after the inspection.",0,1,0
+---
+> "ID442270",40395921,"Establishment closed.",0,0,1
+78927c78927
+< "ID442527",41717640,"Establishment closed.",0,0,1
+---
+> "ID442527",41717640,"Violations recorded after the inspection.",0,1,0
+78955c78955
+< "ID442555",41486500,"Establishment closed.",0,0,1
+---
+> "ID442555",41486500,"Violations recorded after the inspection.",0,1,0
+78969c78969
+< "ID442569",41690815,"Violations recorded after the inspection.",0,1,0
+---
+> "ID442569",41690815,"Establishment closed.",0,0,1
+79002c79002
+< "ID442602",50011224,"Establishment closed.",0,0,1
+---
+> "ID442602",50011224,"Violations recorded after the inspection.",0,1,0
+79030c79030
+< "ID442630",41527379,"Establishment closed.",0,0,1
+---
+> "ID442630",41527379,"Violations recorded after the inspection.",0,1,0
+79159c79159
+< "ID442759",50013031,"Establishment closed.",0,0,1
+---
+> "ID442759",50013031,"Violations recorded after the inspection.",0,1,0
+79191c79191
+< "ID442791",41539237,"Establishment closed.",0,0,1
+---
+> "ID442791",41539237,"Violations recorded after the inspection.",0,1,0
+79280,79281c79280,79281
+< "ID442880",50014387,"Establishment closed.",0,0,1
+< "ID442881",41686353,"Establishment closed.",0,0,1
+---
+> "ID442880",50014387,"Violations recorded after the inspection.",0,1,0
+> "ID442881",41686353,"Violations recorded after the inspection.",0,1,0
+79322,79323c79322,79323
+< "ID442922",41389304,"Violations recorded after the inspection.",0,1,0
+< "ID442923",50003178,"Establishment closed.",0,0,1
+---
+> "ID442922",41389304,"Establishment closed.",0,0,1
+> "ID442923",50003178,"Violations recorded after the inspection.",0,1,0
+79342c79342
+< "ID442942",41455585,"Establishment closed.",0,0,1
+---
+> "ID442942",41455585,"Violations recorded after the inspection.",0,1,0
+79366c79366
+< "ID442966",41202673,"Establishment closed.",0,0,1
+---
+> "ID442966",41202673,"Violations recorded after the inspection.",0,1,0
+79414c79414
+< "ID443014",41297769,"Violations recorded after the inspection.",0,1,0
+---
+> "ID443014",41297769,"Establishment closed.",0,0,1
+79446c79446
+< "ID443046",41141755,"Establishment closed.",0,0,1
+---
+> "ID443046",41141755,"Violations recorded after the inspection.",0,1,0
+79449c79449
+< "ID443049",50044932,"Establishment closed.",0,0,1
+---
+> "ID443049",50044932,"Violations recorded after the inspection.",0,1,0
+79620c79620
+< "ID443220",41474875,"Establishment closed.",0,0,1
+---
+> "ID443220",41474875,"Violations recorded after the inspection.",0,1,0
+79622c79622
+< "ID443222",50001339,"Violations recorded after the inspection.",0,1,0
+---
+> "ID443222",50001339,"Establishment closed.",0,0,1
+79657c79657
+< "ID443257",41382948,"Establishment closed.",0,0,1
+---
+> "ID443257",41382948,"Violations recorded after the inspection.",0,1,0
+79676c79676
+< "ID443276",41647571,"No violations recorded after the inspection.",1,0,0
+---
+> "ID443276",41647571,"Establishment closed.",0,0,1
+79716c79716
+< "ID443316",50039550,"Violations recorded after the inspection.",0,1,0
+---
+> "ID443316",50039550,"Establishment closed.",0,0,1
+79729c79729
+< "ID443329",41233172,"Establishment closed.",0,0,1
+---
+> "ID443329",41233172,"Violations recorded after the inspection.",0,1,0
+79766c79766
+< "ID443366",41389304,"Violations recorded after the inspection.",0,1,0
+---
+> "ID443366",41389304,"Establishment closed.",0,0,1
+79886c79886
+< "ID443486",41009678,"Establishment closed.",0,0,1
+---
+> "ID443486",41009678,"Violations recorded after the inspection.",0,1,0
+79890c79890
+< "ID443490",41417952,"Establishment closed.",0,0,1
+---
+> "ID443490",41417952,"Violations recorded after the inspection.",0,1,0
+80001c80001
+< "ID443601",40512123,"Establishment closed.",0,0,1
+---
+> "ID443601",40512123,"Violations recorded after the inspection.",0,1,0
+80183c80183
+< "ID443783",50007450,"Violations recorded after the inspection.",0,1,0
+---
+> "ID443783",50007450,"Establishment closed.",0,0,1
+80192c80192
+< "ID443792",41406255,"Establishment closed.",0,0,1
+---
+> "ID443792",41406255,"Violations recorded after the inspection.",0,1,0
+80246c80246
+< "ID443846",50042781,"Establishment closed.",0,0,1
+---
+> "ID443846",50042781,"Violations recorded after the inspection.",0,1,0
+80373c80373
+< "ID443973",41299074,"Establishment closed.",0,0,1
+---
+> "ID443973",41299074,"Violations recorded after the inspection.",0,1,0
+80376c80376
+< "ID443976",41561516,"Violations recorded after the inspection.",0,1,0
+---
+> "ID443976",41561516,"Establishment closed.",0,0,1
+80460c80460
+< "ID444060",50046726,"Establishment closed.",0,0,1
+---
+> "ID444060",50046726,"Violations recorded after the inspection.",0,1,0
+80509c80509
+< "ID444109",50036930,"Establishment closed.",0,0,1
+---
+> "ID444109",50036930,"Violations recorded after the inspection.",0,1,0
+80518c80518
+< "ID444118",41287566,"Establishment closed.",0,0,1
+---
+> "ID444118",41287566,"Violations recorded after the inspection.",0,1,0
+80564c80564
+< "ID444164",41690815,"Violations recorded after the inspection.",0,1,0
+---
+> "ID444164",41690815,"Establishment closed.",0,0,1
+80585c80585
+< "ID444185",41122892,"Violations recorded after the inspection.",0,1,0
+---
+> "ID444185",41122892,"Establishment closed.",0,0,1
+80658c80658
+< "ID444258",41081535,"Establishment closed.",0,0,1
+---
+> "ID444258",41081535,"Violations recorded after the inspection.",0,1,0
+80758c80758
+< "ID444358",41289484,"Establishment closed.",0,0,1
+---
+> "ID444358",41289484,"Violations recorded after the inspection.",0,1,0
+80825c80825
+< "ID444425",40725591,"Violations recorded after the inspection.",0,1,0
+---
+> "ID444425",40725591,"Establishment closed.",0,0,1
+80941c80941
+< "ID444541",50019260,"Violations recorded after the inspection.",0,1,0
+---
+> "ID444541",50019260,"Establishment closed.",0,0,1
+81016c81016
+< "ID444616",50035762,"Establishment closed.",0,0,1
+---
+> "ID444616",50035762,"Violations recorded after the inspection.",0,1,0
+81117c81117
+< "ID444717",41646934,"Violations recorded after the inspection.",0,1,0
+---
+> "ID444717",41646934,"Establishment closed.",0,0,1
+81135c81135
+< "ID444735",41697391,"Establishment closed.",0,0,1
+---
+> "ID444735",41697391,"No violations recorded after the inspection.",1,0,0
+81336c81336
+< "ID444936",50011359,"Establishment closed.",0,0,1
+---
+> "ID444936",50011359,"Violations recorded after the inspection.",0,1,0
+81399c81399
+< "ID444999",41433093,"Establishment closed.",0,0,1
+---
+> "ID444999",41433093,"Violations recorded after the inspection.",0,1,0
+81588c81588
+< "ID445188",41706169,"Establishment closed.",0,0,1
+---
+> "ID445188",41706169,"Violations recorded after the inspection.",0,1,0
+81616c81616
+< "ID445216",41036011,"Establishment closed.",0,0,1
+---
+> "ID445216",41036011,"Violations recorded after the inspection.",0,1,0
+81825c81825
+< "ID445425",41680112,"Establishment closed.",0,0,1
+---
+> "ID445425",41680112,"Violations recorded after the inspection.",0,1,0
+81895c81895
+< "ID445495",50001203,"Violations recorded after the inspection.",0,1,0
+---
+> "ID445495",50001203,"Establishment closed.",0,0,1
+81996c81996
+< "ID445596",41685002,"Violations recorded after the inspection.",0,1,0
+---
+> "ID445596",41685002,"Establishment closed.",0,0,1
+82020c82020
+< "ID445620",50002572,"Violations recorded after the inspection.",0,1,0
+---
+> "ID445620",50002572,"Establishment closed.",0,0,1
+82022c82022
+< "ID445622",41122892,"Violations recorded after the inspection.",0,1,0
+---
+> "ID445622",41122892,"Establishment closed.",0,0,1
+82026,82027c82026,82027
+< "ID445626",41163809,"Establishment closed.",0,0,1
+< "ID445627",50009921,"Violations recorded after the inspection.",0,1,0
+---
+> "ID445626",41163809,"No violations recorded after the inspection.",1,0,0
+> "ID445627",50009921,"Establishment closed.",0,0,1
+82040c82040
+< "ID445640",41705491,"Establishment closed.",0,0,1
+---
+> "ID445640",41705491,"Violations recorded after the inspection.",0,1,0
+82086c82086
+< "ID445686",40573444,"Establishment closed.",0,0,1
+---
+> "ID445686",40573444,"No violations recorded after the inspection.",1,0,0
+82219c82219
+< "ID445819",41642578,"Establishment closed.",0,0,1
+---
+> "ID445819",41642578,"Violations recorded after the inspection.",0,1,0
+82282c82282
+< "ID445882",41319055,"Establishment closed.",0,0,1
+---
+> "ID445882",41319055,"Violations recorded after the inspection.",0,1,0
+82334c82334
+< "ID445934",41660888,"Establishment closed.",0,0,1
+---
+> "ID445934",41660888,"Violations recorded after the inspection.",0,1,0
+82356c82356
+< "ID445956",41583191,"Establishment closed.",0,0,1
+---
+> "ID445956",41583191,"Violations recorded after the inspection.",0,1,0
+82553c82553
+< "ID446153",50003580,"Violations recorded after the inspection.",0,1,0
+---
+> "ID446153",50003580,"Establishment closed.",0,0,1
+82595c82595
+< "ID446195",41706130,"Establishment closed.",0,0,1
+---
+> "ID446195",41706130,"Violations recorded after the inspection.",0,1,0
+82611c82611
+< "ID446211",41705491,"Establishment closed.",0,0,1
+---
+> "ID446211",41705491,"Violations recorded after the inspection.",0,1,0
+82642c82642
+< "ID446242",41450562,"Violations recorded after the inspection.",0,1,0
+---
+> "ID446242",41450562,"Establishment closed.",0,0,1
+82919c82919
+< "ID446519",50001516,"Violations recorded after the inspection.",0,1,0
+---
+> "ID446519",50001516,"Establishment closed.",0,0,1
+83007c83007
+< "ID446607",41705732,"Establishment closed.",0,0,1
+---
+> "ID446607",41705732,"Violations recorded after the inspection.",0,1,0
+83187c83187
+< "ID446787",41582117,"Establishment closed.",0,0,1
+---
+> "ID446787",41582117,"Violations recorded after the inspection.",0,1,0
+83379c83379
+< "ID446979",41608854,"Violations recorded after the inspection.",0,1,0
+---
+> "ID446979",41608854,"Establishment closed.",0,0,1
+83391c83391
+< "ID446991",50000138,"Violations recorded after the inspection.",0,1,0
+---
+> "ID446991",50000138,"Establishment closed.",0,0,1
+83400c83400
+< "ID447000",41466937,"Establishment closed.",0,0,1
+---
+> "ID447000",41466937,"Violations recorded after the inspection.",0,1,0
+83416c83416
+< "ID447016",41685002,"Establishment closed.",0,0,1
+---
+> "ID447016",41685002,"Violations recorded after the inspection.",0,1,0
+83481c83481
+< "ID447081",40369418,"Establishment closed.",0,0,1
+---
+> "ID447081",40369418,"Violations recorded after the inspection.",0,1,0
+83514c83514
+< "ID447114",41696419,"Establishment closed.",0,0,1
+---
+> "ID447114",41696419,"Violations recorded after the inspection.",0,1,0
+83523c83523
+< "ID447123",50003580,"Violations recorded after the inspection.",0,1,0
+---
+> "ID447123",50003580,"Establishment closed.",0,0,1
+83590c83590
+< "ID447190",40741534,"Establishment closed.",0,0,1
+---
+> "ID447190",40741534,"Violations recorded after the inspection.",0,1,0
+83817c83817
+< "ID447417",40747940,"Violations recorded after the inspection.",0,1,0
+---
+> "ID447417",40747940,"Establishment closed.",0,0,1
+83929c83929
+< "ID447529",41134612,"Establishment closed.",0,0,1
+---
+> "ID447529",41134612,"Violations recorded after the inspection.",0,1,0
+83978c83978
+< "ID447578",41238494,"Establishment closed.",0,0,1
+---
+> "ID447578",41238494,"Violations recorded after the inspection.",0,1,0
+84026c84026
+< "ID447626",41224120,"Establishment closed.",0,0,1
+---
+> "ID447626",41224120,"Violations recorded after the inspection.",0,1,0
+84039c84039
+< "ID447639",40389356,"Establishment closed.",0,0,1
+---
+> "ID447639",40389356,"Violations recorded after the inspection.",0,1,0
+84104c84104
+< "ID447704",41269387,"No violations recorded after the inspection.",1,0,0
+---
+> "ID447704",41269387,"Establishment closed.",0,0,1
+84119c84119
+< "ID447719",50035307,"Establishment closed.",0,0,1
+---
+> "ID447719",50035307,"Violations recorded after the inspection.",0,1,0
+84242c84242
+< "ID447842",50011331,"Establishment closed.",0,0,1
+---
+> "ID447842",50011331,"Violations recorded after the inspection.",0,1,0
+84395c84395
+< "ID447995",50002677,"Establishment closed.",0,0,1
+---
+> "ID447995",50002677,"Violations recorded after the inspection.",0,1,0
+84406c84406
+< "ID448006",50042177,"Establishment closed.",0,0,1
+---
+> "ID448006",50042177,"Violations recorded after the inspection.",0,1,0
+84484c84484
+< "ID448084",41420291,"Establishment closed.",0,0,1
+---
+> "ID448084",41420291,"Violations recorded after the inspection.",0,1,0
+84613c84613
+< "ID448213",41187602,"Violations recorded after the inspection.",0,1,0
+---
+> "ID448213",41187602,"Establishment closed.",0,0,1
+84734c84734
+< "ID448334",50005056,"Establishment closed.",0,0,1
+---
+> "ID448334",50005056,"Violations recorded after the inspection.",0,1,0
+84863c84863
+< "ID448463",41062281,"Violations recorded after the inspection.",0,1,0
+---
+> "ID448463",41062281,"Establishment closed.",0,0,1
+84866c84866
+< "ID448466",41346086,"Establishment closed.",0,0,1
+---
+> "ID448466",41346086,"Violations recorded after the inspection.",0,1,0
+84931c84931
+< "ID448531",41016886,"Establishment closed.",0,0,1
+---
+> "ID448531",41016886,"Violations recorded after the inspection.",0,1,0
+84956,84957c84956,84957
+< "ID448556",50036460,"Establishment closed.",0,0,1
+< "ID448557",41202673,"Establishment closed.",0,0,1
+---
+> "ID448556",50036460,"No violations recorded after the inspection.",1,0,0
+> "ID448557",41202673,"Violations recorded after the inspection.",0,1,0
+85000c85000
+< "ID448600",41704068,"Establishment closed.",0,0,1
+---
+> "ID448600",41704068,"Violations recorded after the inspection.",0,1,0
+85023c85023
+< "ID448623",50001215,"Violations recorded after the inspection.",0,1,0
+---
+> "ID448623",50001215,"Establishment closed.",0,0,1
+85249c85249
+< "ID448849",50014389,"Establishment closed.",0,0,1
+---
+> "ID448849",50014389,"Violations recorded after the inspection.",0,1,0
+85291c85291
+< "ID448891",50033769,"Establishment closed.",0,0,1
+---
+> "ID448891",50033769,"Violations recorded after the inspection.",0,1,0
+85394c85394
+< "ID448994",50000381,"Establishment closed.",0,0,1
+---
+> "ID448994",50000381,"Violations recorded after the inspection.",0,1,0
+85408c85408
+< "ID449008",41113515,"Establishment closed.",0,0,1
+---
+> "ID449008",41113515,"Violations recorded after the inspection.",0,1,0
+85437c85437
+< "ID449037",40513662,"Establishment closed.",0,0,1
+---
+> "ID449037",40513662,"Violations recorded after the inspection.",0,1,0
+85464c85464
+< "ID449064",41705732,"Establishment closed.",0,0,1
+---
+> "ID449064",41705732,"Violations recorded after the inspection.",0,1,0
+85591c85591
+< "ID449191",41703703,"Violations recorded after the inspection.",0,1,0
+---
+> "ID449191",41703703,"Establishment closed.",0,0,1
+85605c85605
+< "ID449205",50014392,"Establishment closed.",0,0,1
+---
+> "ID449205",50014392,"Violations recorded after the inspection.",0,1,0
+85611c85611
+< "ID449211",50018447,"Violations recorded after the inspection.",0,1,0
+---
+> "ID449211",50018447,"Establishment closed.",0,0,1
+85615c85615
+< "ID449215",40863575,"Establishment closed.",0,0,1
+---
+> "ID449215",40863575,"Violations recorded after the inspection.",0,1,0
+85762c85762
+< "ID449362",40394329,"Establishment closed.",0,0,1
+---
+> "ID449362",40394329,"Violations recorded after the inspection.",0,1,0
+85868c85868
+< "ID449468",41716870,"Establishment closed.",0,0,1
+---
+> "ID449468",41716870,"Violations recorded after the inspection.",0,1,0
+85879c85879
+< "ID449479",41605298,"No violations recorded after the inspection.",1,0,0
+---
+> "ID449479",41605298,"Establishment closed.",0,0,1
+86070c86070
+< "ID449670",40425143,"Establishment closed.",0,0,1
+---
+> "ID449670",40425143,"No violations recorded after the inspection.",1,0,0
+86134c86134
+< "ID449734",41662070,"Establishment closed.",0,0,1
+---
+> "ID449734",41662070,"Violations recorded after the inspection.",0,1,0
+86149c86149
+< "ID449749",41608854,"Violations recorded after the inspection.",0,1,0
+---
+> "ID449749",41608854,"Establishment closed.",0,0,1
+86230c86230
+< "ID449830",50014243,"Establishment closed.",0,0,1
+---
+> "ID449830",50014243,"Violations recorded after the inspection.",0,1,0
+86258c86258
+< "ID449858",41642313,"Violations recorded after the inspection.",0,1,0
+---
+> "ID449858",41642313,"Establishment closed.",0,0,1
+86291c86291
+< "ID449891",50008076,"Establishment closed.",0,0,1
+---
+> "ID449891",50008076,"No violations recorded after the inspection.",1,0,0
+86309c86309
+< "ID449909",41430522,"Violations recorded after the inspection.",0,1,0
+---
+> "ID449909",41430522,"Establishment closed.",0,0,1
+86379c86379
+< "ID449979",40597409,"Violations recorded after the inspection.",0,1,0
+---
+> "ID449979",40597409,"Establishment closed.",0,0,1
+86410c86410
+< "ID450010",41232741,"Establishment closed.",0,0,1
+---
+> "ID450010",41232741,"Violations recorded after the inspection.",0,1,0
+86447c86447
+< "ID450047",41699488,"Establishment closed.",0,0,1
+---
+> "ID450047",41699488,"Violations recorded after the inspection.",0,1,0
+86570c86570
+< "ID450170",40394122,"No violations recorded after the inspection.",1,0,0
+---
+> "ID450170",40394122,"Establishment closed.",0,0,1
+86598c86598
+< "ID450198",41690948,"Establishment closed.",0,0,1
+---
+> "ID450198",41690948,"Violations recorded after the inspection.",0,1,0
+86639c86639
+< "ID450239",41677489,"Establishment closed.",0,0,1
+---
+> "ID450239",41677489,"Violations recorded after the inspection.",0,1,0
+86808c86808
+< "ID450408",41645569,"Establishment closed.",0,0,1
+---
+> "ID450408",41645569,"Violations recorded after the inspection.",0,1,0
+87014c87014
+< "ID450614",50008904,"No violations recorded after the inspection.",1,0,0
+---
+> "ID450614",50008904,"Violations recorded after the inspection.",0,1,0
+87042c87042
+< "ID450642",41591126,"No violations recorded after the inspection.",1,0,0
+---
+> "ID450642",41591126,"Establishment closed.",0,0,1
+87210c87210
+< "ID450810",50001215,"Violations recorded after the inspection.",0,1,0
+---
+> "ID450810",50001215,"Establishment closed.",0,0,1
+87291c87291
+< "ID450891",50044981,"Establishment closed.",0,0,1
+---
+> "ID450891",50044981,"Violations recorded after the inspection.",0,1,0
+87345c87345
+< "ID450945",41178943,"Violations recorded after the inspection.",0,1,0
+---
+> "ID450945",41178943,"Establishment closed.",0,0,1
+87380c87380
+< "ID450980",50016137,"Establishment closed.",0,0,1
+---
+> "ID450980",50016137,"Violations recorded after the inspection.",0,1,0
+87394c87394
+< "ID450994",41709395,"Establishment closed.",0,0,1
+---
+> "ID450994",41709395,"Violations recorded after the inspection.",0,1,0
+87688c87688
+< "ID451288",40393488,"Violations recorded after the inspection.",0,1,0
+---
+> "ID451288",40393488,"Establishment closed.",0,0,1
+87908c87908
+< "ID451508",40403830,"Establishment closed.",0,0,1
+---
+> "ID451508",40403830,"Violations recorded after the inspection.",0,1,0
+88068c88068
+< "ID451668",40995563,"Establishment closed.",0,0,1
+---
+> "ID451668",40995563,"No violations recorded after the inspection.",1,0,0
+88081c88081
+< "ID451681",41711975,"Establishment closed.",0,0,1
+---
+> "ID451681",41711975,"Violations recorded after the inspection.",0,1,0
+88118c88118
+< "ID451718",50042177,"Establishment closed.",0,0,1
+---
+> "ID451718",50042177,"Violations recorded after the inspection.",0,1,0
+88177c88177
+< "ID451777",41608854,"Violations recorded after the inspection.",0,1,0
+---
+> "ID451777",41608854,"Establishment closed.",0,0,1
+88210c88210
+< "ID451810",50000895,"Violations recorded after the inspection.",0,1,0
+---
+> "ID451810",50000895,"Establishment closed.",0,0,1
+88253c88253
+< "ID451853",41281381,"Establishment closed.",0,0,1
+---
+> "ID451853",41281381,"Violations recorded after the inspection.",0,1,0
+88298c88298
+< "ID451898",50034182,"Establishment closed.",0,0,1
+---
+> "ID451898",50034182,"Violations recorded after the inspection.",0,1,0
+88378c88378
+< "ID451978",41722721,"Establishment closed.",0,0,1
+---
+> "ID451978",41722721,"Violations recorded after the inspection.",0,1,0
+88423c88423
+< "ID452023",50037052,"Violations recorded after the inspection.",0,1,0
+---
+> "ID452023",50037052,"Establishment closed.",0,0,1
+88443c88443
+< "ID452043",41554491,"Establishment closed.",0,0,1
+---
+> "ID452043",41554491,"Violations recorded after the inspection.",0,1,0
+88556c88556
+< "ID452156",41685002,"No violations recorded after the inspection.",1,0,0
+---
+> "ID452156",41685002,"Establishment closed.",0,0,1
+88606c88606
+< "ID452206",50000895,"Violations recorded after the inspection.",0,1,0
+---
+> "ID452206",50000895,"Establishment closed.",0,0,1
+88694c88694
+< "ID452294",41449143,"Violations recorded after the inspection.",0,1,0
+---
+> "ID452294",41449143,"Establishment closed.",0,0,1
+88812c88812
+< "ID452412",50003262,"Establishment closed.",0,0,1
+---
+> "ID452412",50003262,"Violations recorded after the inspection.",0,1,0
+89211c89211
+< "ID452811",41697130,"Establishment closed.",0,0,1
+---
+> "ID452811",41697130,"Violations recorded after the inspection.",0,1,0
+89348c89348
+< "ID452948",41539257,"Establishment closed.",0,0,1
+---
+> "ID452948",41539257,"Violations recorded after the inspection.",0,1,0
+89378c89378
+< "ID452978",41346086,"No violations recorded after the inspection.",1,0,0
+---
+> "ID452978",41346086,"Establishment closed.",0,0,1
+89468c89468
+< "ID453068",41391463,"Establishment closed.",0,0,1
+---
+> "ID453068",41391463,"Violations recorded after the inspection.",0,1,0
+89473c89473
+< "ID453073",41255152,"Establishment closed.",0,0,1
+---
+> "ID453073",41255152,"Violations recorded after the inspection.",0,1,0
+89572c89572
+< "ID453172",41669938,"Establishment closed.",0,0,1
+---
+> "ID453172",41669938,"Violations recorded after the inspection.",0,1,0
+89595c89595
+< "ID453195",41652427,"Establishment closed.",0,0,1
+---
+> "ID453195",41652427,"Violations recorded after the inspection.",0,1,0
+89659c89659
+< "ID453259",41555982,"Establishment closed.",0,0,1
+---
+> "ID453259",41555982,"Violations recorded after the inspection.",0,1,0
+89666c89666
+< "ID453266",41647571,"Violations recorded after the inspection.",0,1,0
+---
+> "ID453266",41647571,"Establishment closed.",0,0,1
+89669c89669
+< "ID453269",50018952,"Establishment closed.",0,0,1
+---
+> "ID453269",50018952,"Violations recorded after the inspection.",0,1,0
+89701c89701
+< "ID453301",41677489,"Establishment closed.",0,0,1
+---
+> "ID453301",41677489,"Violations recorded after the inspection.",0,1,0
+89718c89718
+< "ID453318",50000926,"Establishment closed.",0,0,1
+---
+> "ID453318",50000926,"Violations recorded after the inspection.",0,1,0
+89766c89766
+< "ID453366",41097973,"Establishment closed.",0,0,1
+---
+> "ID453366",41097973,"Violations recorded after the inspection.",0,1,0
+89852c89852
+< "ID453452",41320205,"Violations recorded after the inspection.",0,1,0
+---
+> "ID453452",41320205,"Establishment closed.",0,0,1
+89978c89978
+< "ID453578",41386840,"Violations recorded after the inspection.",0,1,0
+---
+> "ID453578",41386840,"Establishment closed.",0,0,1

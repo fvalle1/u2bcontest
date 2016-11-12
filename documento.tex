@@ -1,0 +1,105 @@
+\documentclass[10pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage[a4paper,centering,top=0.2cm,bottom=1.3cm,outer=0.5cm,inner=0.5cm]{geometry}
+
+\title{\small{Diventa Data Scientist!}}
+\author{\small{Filippo Valle}\\ \texttt{\href{mailto:mail@fvalle.me?Subject=Diventa\%20Data\%20Scientist}{mail@fvalle.me}}}
+\date{\small{\today}}
+
+\usepackage{hyperref}	%indice pdf
+
+\hypersetup{pdfauthor={Filippo Valle}, pdftitle={Gara: Diventa Data Scientist},
+ pdfproducer={\LaTeX},
+ bookmarks=true,
+ unicode=true,
+ pdftoolbar=false,
+ pdfmenubar=false,
+ pdffitwindow=false, 
+ pdfstartview=FitH,
+colorlinks=true,
+urlcolor=cyan,
+linkcolor=magenta
+}
+
+
+\begin{document}
+\maketitle
+\section{Tools}
+\label{sec:tools}
+Per sviluppare il problema ho \textbf{scrito un codice nel linguaggio R}, ed ho fatto uso dei pacchetti\footnote{\url{https://cran.r-project.org/web/packages/}}: \emph{rattle}, \emph{rpart.plot}, \emph{randomforest}.
+
+\section{Organizzazione dei dati}
+\subsection{Pulizia}
+\label{sec:pulizia}
+Per togliere i dati ``\emph{sporchi}'' dai set di dati ho  \textbf{eliminato} da \emph{train} le righe:
+\begin{itemize}
+\item con date multiple
+\item con le colonne allineate in maniera errata  
+\end{itemize}
+
+\subsection{Dati mancanti}
+\label{sec:datimancanti}
+ho colmato i dati mancanti:
+\begin{itemize}
+\item per la variabile \textbf{Punteggio} ho assegnato la mediana ai dati \emph{NA} e a quelli \emph{equipment or floor not properly drained} 
+\item ho assegnato il \textbf{Coefficiente di livello} in base alla tabella \ref{tab:punteggi}
+\item ho considerato nel valore \textbf{Criticità}, \emph{anti-siphonage or backflow prevention device not provided where required} come \emph{Critical}, in modo da avere gli stessi valori (\emph{Critical}, \emph{Not Critical}, \emph{Not Applicable})  in entrambi i set di dati
+\item ho cercato con un \textbf{decision tree} il \textbf{Quartiere} per i dati in cui risultava \emph{Missing}; per cercare il quartiere ho usato come parametro principale il Codice postale (figura \ref{fig:quartieretree})
+\end{itemize}
+
+\subsection{Nuove categorie}
+\label{sec:nuovecategorie}
+Ho dovuto\footnote{Con più di 54 categorie rpart da' errore} raggruppare i valori in macro aree, ho altresì aggiunto nuove variabili al modello:
+\begin{itemize}
+\item ho raggruppato \textbf{Tipo cucina}, per esempio la categoria \emph{Californian} e la categoria \emph{Hawaiian} sono raggruppate nella macro-categoria \emph{American}
+\item ho aggiustato \textbf{Tipo ispezione}, per esempio, considerando cosiderando \emph{re-opening} come \emph{initial} trattando quindi che un locale che ha riaperto come un locale nuovo
+\item ho creato delle \textbf{Zone} basandomi sul Codice postale
+\item ho creato una variabile \textbf{Prefisso telefonico} poiché a New York può essere importante\footnote{\url{http://archive.is/2016.08.07-072128/http://www.linkiesta.it/it/article/2011/04/26/a-new-york-i-prefissi-telefonici-li-mettono-allasta/618/}}!
+\end{itemize}
+\begin{table}[p!]
+\centering
+\begin{tabular}{| c | c |}
+    \hline
+    Regola & Coefficiente\\ \hline
+\(p\leq13\)&A\\ \hline
+\(13<p\leq27\)&B \\ \hline
+\(27<p\)&C\\ \hline
+\end{tabular}
+\caption{Dal sito della gara (\emph{p} rappresenta il punteggio ottenuto)}
+\label{tab:punteggi}
+\end{table}
+
+\begin{figure}[p!]
+\centering
+\includegraphics[width=0.65\linewidth]{p_quartiere.pdf}
+\caption{Albero per decidere il quartiere}
+\label{fig:quartieretree}
+\end{figure}
+
+\section{Random Forest}
+\label{sec:randomforest}
+Per cercare \textbf{quale Azione sarebbe stata intrapresa nei confronti del ristorante} ho usato un algoritmo \textbf{random forest}.
+
+Ho provato ad includere quanti più parametri possibili e ho capito, come riportato nel  diagramma in figura \ref{fig:random}, che varibili come \textbf{Criticità}, \textbf{Tipo ispezione} e \textbf{Punteggio} hanno un peso importante!
+\begin{figure}[p!]
+\centering
+\includegraphics[width=0.45\linewidth]{forest_graph.pdf}
+\caption{importanza delle diverse variabili nella costruzione della random forest (più \emph{MeanDecreaseAccuracy} è alto più la varibile ha importanza nella simulazione)}
+\label{fig:random}
+\end{figure}
+Dopo vari tentativi volti ad ottimizzare l'uso delle varibili ho costruito la \textbf{foresta principale}, da cui ho poi creato la tabella dei risultati.
+
+\section{Risultati}
+\label{sec:risultati}
+Prima di compilare i risultati ho supposto che nel caso:
+\begin{itemize}
+\item \emph{Establishment re-closed by DOHMH} il locale \textbf{chiudesse}
+\item \emph{Establishment re-opened by DOHMH} il locale \textbf{non avesse violazioni}
+\end{itemize} 
+
+Ho infine salvato i risultati nel file \emph{submit.csv}.
+\end{document}
